@@ -127,7 +127,7 @@
 	{
 		"id": 26,
 		"text": "You are unnerved by uncertainty and the unknown.",
-		"function": "Introverted intuition (Ni)"
+		"function": "Introverted sensing (Si)"
 	},
 	{
 		"id": 27,
@@ -377,7 +377,7 @@
 	{
 		"id": 76,
 		"text": "You consider yourself a practical and realistic person, free from imagination.",
-		"function": "Extraverted sensing (Se)"
+		"function": "Introverted sensing (Si)"
 	},
 	{
 		"id": 77,

@@ -8,9 +8,9 @@ CF count (only about 30% of them have been validated):
 {
   "cf": {
     "Ne": 12,
-    "Ni": 14,
-    "Se": 12,
-    "Si": 10,
+    "Ni": 13,
+    "Se": 11,
+    "Si": 12,
     "Te": 12,
     "Ti": 11,
     "Fe": 14,
@@ -24,7 +24,7 @@ CF count (only about 30% of them have been validated):
 
 ## Extraverted Intuition (Ne)
 
-| N   | question                                                                                        | id  |
+| N   | question                                                                                            | id  |
 | --- | ---                                                                                                 | --- |
 | 1   | You have a tendency to go off-topic in conversation.                                                | 11  |
 | 2   | You can easily think of something random to say.                                                    | 13  |
@@ -39,45 +39,46 @@ CF count (only about 30% of them have been validated):
 | 11  | You are drawn to the new, novel, and original.                                                      | 88  |
 | 12  | You see the world as a bundle of possibilities waiting to be explored.                              | 91  |
 
+
 ## Introverted Intuition (Ni)
 
-| N   | question                                                                                         | id  |
+| N   | question                                                                                             | id  |
 | --- | ---                                                                                                  | --- |
 | 1   | You "just know" things without being able to consciously put them into words.                        | 7   |
 | 2   | You imagine things that aren't directly connected to the real world.                                 | 18  |
 | 3   | You are drawn toward the abstract and often obsess over meanings.                                    | 20  |
 | 4   | You often arrive at conclusions that seem to come out of nowhere; you relate to "realizing" answers. | 22  |
-| 5   | You are unnerved by uncertainty and the unknown.                                                     | 26  |
-| 6   | You place a great amount of trust in the mysterious and unconscious world.                           | 30  |
-| 7   | You feel as though your insights often go misunderstood.                                             | 51  |
-| 8   | You often use metaphors to communicate new ideas.                                                    | 59  |
-| 9   | You frequently have hunches or insights about the future that turn out to be correct.                | 64  |
-| 10  | You see the big picture in a sea of details.                                                         | 65  |
-| 11  | You have trouble communicating with those who do not think like you.                                 | 75  |
-| 12  | You have trouble communicating your ideas with people.                                               | 79  |
-| 13  | You are attracted to symbolism, mysticism and the unknown.                                           | 80  |
-| 14  | You prefer living in your dreams to living in the real world.                                        | 92  |
+| 5   | You place a great amount of trust in the mysterious and unconscious world.                           | 30  |
+| 6   | You feel as though your insights often go misunderstood.                                             | 51  |
+| 7   | You often use metaphors to communicate new ideas.                                                    | 59  |
+| 8   | You frequently have hunches or insights about the future that turn out to be correct.                | 64  |
+| 9   | You see the big picture in a sea of details.                                                         | 65  |
+| 10  | You have trouble communicating with those who do not think like you.                                 | 75  |
+| 11  | You have trouble communicating your ideas with people.                                               | 79  |
+| 12  | You are attracted to symbolism, mysticism and the unknown.                                           | 80  |
+| 13  | You prefer living in your dreams to living in the real world.                                        | 92  |
+
 
 ## Extraverted Sensing (Se)
 
-| N   | question                                                                                   | id  |
-| --- | ---                                                                                            | --- |
-| 1   | You have an eye for aesthetics and "enjoy the finer things in life."                           | 4   |
-| 2   | You live in the "here and now."                                                                | 12  |
-| 3   | You are often the first to react to a question.                                                | 28  |
-| 4   | You thrive on new and exciting experiences.                                                    | 42  |
-| 5   | You live in the present, not the past or the future.                                           | 45  |
-| 6   | You are a risk-taker.                                                                          | 60  |
-| 7   | You may be seen as reckless and unknowingly hurt those around you.                             | 68  |
-| 8   | You have an excellent sense of direction and instantly know your way around a new place.       | 72  |
-| 9   | You consider yourself a practical and realistic person, free from imagination.                 | 76  |
-| 10  | You believe your presence is greatly felt in a room.                                           | 84  |
-| 11  | You absorb information from the outside world without additional processing.                   | 85  |
-| 12  | You are aware of your surroundings and aren't likely to miss something right in front of you.  | 96  |
+| N   | question                                                                                      | id  |
+| --- | ---                                                                                           | --- |
+| 1   | You have an eye for aesthetics and "enjoy the finer things in life."                          | 4   |
+| 2   | You live in the "here and now."                                                               | 12  |
+| 3   | You are often the first to react to a question.                                               | 28  |
+| 4   | You thrive on new and exciting experiences.                                                   | 42  |
+| 5   | You live in the present, not the past or the future.                                          | 45  |
+| 6   | You are a risk-taker.                                                                         | 60  |
+| 7   | You may be seen as reckless and unknowingly hurt those around you.                            | 68  |
+| 8   | You have an excellent sense of direction and instantly know your way around a new place.      | 72  |
+| 9   | You believe your presence is greatly felt in a room.                                          | 84  |
+| 10  | You absorb information from the outside world without additional processing.                  | 85  |
+| 11  | You are aware of your surroundings and aren't likely to miss something right in front of you. | 96  |
+
 
 ## Introverted Sensing (Si)
 
-| N   | question                                                                                   | id  |
+| N   | question                                                                                       | id  |
 | --- | ---                                                                                            | --- |
 | 1   | You place a lot of value on details and past experiences.                                      | 2   |
 | 2   | You are skilled at recognizing whether the details in front of you match what you are used to. | 3   |
@@ -86,13 +87,16 @@ CF count (only about 30% of them have been validated):
 | 5   | You relate present experiences back to past experiences.                                       | 14  |
 | 6   | You dislike change.                                                                            | 15  |
 | 7   | You greatly value tradition and duty.                                                          | 17  |
-| 8   | You follow a consistent routine.                                                               | 43  |
-| 9   | You cannot help but get hung up on small details.                                              | 57  |
-| 10  | You are described as "stuck in your ways."                                                     | 93  |
+| 8   | You are unnerved by uncertainty and the unknown.                                               | 26  |
+| 9   | You follow a consistent routine.                                                               | 43  |
+| 10  | You cannot help but get hung up on small details.                                              | 57  |
+| 11  | You consider yourself a practical and realistic person, free from imagination.                 | 76  |
+| 12  | You are described as "stuck in your ways."                                                     | 93  |
+
 
 ## Extraverted Thinking (Te)
 
-| N   | question                                                                                                      | id  |
+| N   | question                                                                                                          | id  |
 | --- | ---                                                                                                               | --- |
 | 1   | You find yourself agreeing with those who claim that the ends justify the means.                                  | 6   |
 | 2   | You are blunt and straight-to-the-point in communication.                                                         | 9   |
@@ -106,6 +110,7 @@ CF count (only about 30% of them have been validated):
 | 10  | You streamline existing systems for the sake of efficiency and productivity.                                      | 74  |
 | 11  | You would do whatever it takes to win a debate.                                                                   | 87  |
 | 12  | You generally work through problems with others and involve yourself with other people to arrive at a conclusion. | 89  |
+
 
 ## Introverted Thinking (Ti)
 
@@ -123,9 +128,10 @@ CF count (only about 30% of them have been validated):
 | 10  | You have been consistently logical throughout your life.                                                                                                  | 83  |
 | 11  | You explore things in depth for purely for the sake of exploring them in depth.                                                                           | 95  |
 
+
 ## Extraverted Feeling (Fe)
 
-| N   | question                                                                                 | id  |
+| N   | question                                                                                     | id  |
 | --- | ---                                                                                          | --- |
 | 1   | You feel a strong sense of unity when communicating with others in a group.                  | 8   |
 | 2   | You may be viewed as "fake" or "manipulative" to others.                                     | 24  |
@@ -142,9 +148,10 @@ CF count (only about 30% of them have been validated):
 | 13  | You value inclusion and try your best to involve everyone in a group.                        | 86  |
 | 14  | You become upset when your care for others goes unappreciated.                               | 90  |
 
+
 ## Introverted Feeling (Fi)
 
-| N   | question                                                                                          | id  |
+| N   | question                                                                                           | id  |
 | --- | ---                                                                                                | --- |
 | 1   | You are fiercely individualistic and pride yourself on your uniqueness.                            | 1   |
 | 2   | You may be viewed as selfish or self-centered.                                                     | 19  |
