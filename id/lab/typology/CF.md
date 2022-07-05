@@ -13,9 +13,9 @@ Rincian jumlah per 96 data:
 {
   "cf": {
     "Ne": 12,
-    "Ni": 14,
-    "Se": 12,
-    "Si": 10,
+    "Ni": 13,
+    "Se": 11,
+    "Si": 12,
     "Te": 12,
     "Ti": 11,
     "Fe": 14,
@@ -52,16 +52,15 @@ Rincian jumlah per 96 data:
 | 2   | Kamu mengimajinasikan hal-hal yang tidak berhubungan langsung dengan dunia nyata.                            | 18  |
 | 3   | Kamu tertarik dengan hal-hal abstrak dan sering terobsesi dengan makna tersembunyi.                          | 20  |
 | 4   | Kamu sering mengambil kesimpulan yang datang entah dari mana; kamu cenderung 'menyadari' jawaban.            | 22  |
-| 5   | Kamu tidak tertarik dengan ketidakpastian atau hal-hal yang belum diketahui.                                 | 26  |
-| 6   | Kamu menaruh kepercayaan yang banyak terhadap alam bawah sadar dan hal-hal misterius.                        | 30  |
-| 7   | Kamu merasa bahwa pendapatmu sering disalahpahami orang lain.                                                | 51  |
-| 8   | Kamu banyak mengunakan kiasan puitis untuk menyampaikan ide-ide baru.                                        | 59  |
-| 9   | Kamu seringkali memiliki firasat tentang sesuatu di masa depan yang pada akhirnya terbukti benar.            | 64  |
-| 10  | Kamu melihat gambaran besar alih-alih lautan detail.                                                         | 65  |
-| 11  | Kamu punya kesulitan berkomunikasi dengan orang-orang yang memiliki pandangan berbeda.                       | 75  |
-| 12  | Kamu punya kesulitan untuk menyampaikan ide-idemu kepada orang lain.                                         | 79  |
-| 13  | Kamu tertarik pada filosofi dan hal-hal mistis.                                                              | 80  |
-| 14  | Kamu lebih memilih untuk hidup di dunia mimpimu dibanding dunia nyata.                                       | 92  |
+| 5   | Kamu menaruh kepercayaan yang banyak terhadap alam bawah sadar dan hal-hal misterius.                        | 30  |
+| 6   | Kamu merasa bahwa pendapatmu sering disalahpahami orang lain.                                                | 51  |
+| 7   | Kamu banyak mengunakan kiasan puitis untuk menyampaikan ide-ide baru.                                        | 59  |
+| 8   | Kamu seringkali memiliki firasat tentang sesuatu di masa depan yang pada akhirnya terbukti benar.            | 64  |
+| 9   | Kamu melihat gambaran besar alih-alih lautan detail.                                                         | 65  |
+| 10  | Kamu punya kesulitan berkomunikasi dengan orang-orang yang memiliki pandangan berbeda.                       | 75  |
+| 11  | Kamu punya kesulitan untuk menyampaikan ide-idemu kepada orang lain.                                         | 79  |
+| 12  | Kamu tertarik pada filosofi dan hal-hal mistis.                                                              | 80  |
+| 13  | Kamu lebih memilih untuk hidup di dunia mimpimu dibanding dunia nyata.                                       | 92  |
 
 ## Extraverted Sensing (Se)
 
@@ -75,10 +74,9 @@ Rincian jumlah per 96 data:
 | 6   | Kamu adalah seorang pengambil resiko.                                                                   | 60  |
 | 7   | Kamu mungkin terlihat bar-bar dan menyakiti orang-orang disekitarmu tanpa sadar.                        | 68  |
 | 8   | Kamu punya indera navigasi yang bagus dan mudah tahu arah walaupun di tempat baru.                      | 72  |
-| 9   | Menurutmu, kamu adalah orang yang praktis dan realistis, bebas dari imajinasi.                          | 76  |
-| 10  | Kamu percaya bahwa keberadaanmu dalam sebuah ruangan pasti disadari orang lain.                         | 84  |
-| 11  | Kamu menerima sebuah informasi dari dunia luar tanpa pikir panjang.                                     | 85  |
-| 12  | Kamu sadar akan hal-hal di sekitarmu dan tidak mungkin melewatkan sesuatu yang terjadi di depan matamu. | 96  |
+| 9   | Kamu percaya bahwa keberadaanmu dalam sebuah ruangan pasti disadari orang lain.                         | 84  |
+| 10  | Kamu menerima sebuah informasi dari dunia luar tanpa pikir panjang.                                     | 85  |
+| 11  | Kamu sadar akan hal-hal di sekitarmu dan tidak mungkin melewatkan sesuatu yang terjadi di depan matamu. | 96  |
 
 ## Introverted Sensing (Si)
 
@@ -91,9 +89,11 @@ Rincian jumlah per 96 data:
 | 5   | Kamu menghubungkan pengalaman masa kini dengan pengalaman masa lalu                                                      | 14  |
 | 6   | Kamu tidak menyukai perubahan.                                                                                           | 15  |
 | 7   | Kamu sangat menghargai tradisi dan kewajiban.                                                                            | 17  |
-| 8   | Kamu mengikuti sebuah rutinitas yang konsisten.                                                                          | 43  |
-| 9   | Mau tidak mau, kamu akan selalu fokus kepada detil-detil kecil.                                                          | 57  |
-| 10  | Kamu dideskripsikan sebagai 'tidak bisa berpindah tujuan'.                                                               | 93  |
+| 8   | Kamu tidak tertarik dengan ketidakpastian atau hal-hal yang belum diketahui.                                             | 26  |
+| 9   | Kamu mengikuti sebuah rutinitas yang konsisten.                                                                          | 43  |
+| 10  | Mau tidak mau, kamu akan selalu fokus kepada detil-detil kecil.                                                          | 57  |
+| 11  | Menurutmu, kamu adalah orang yang praktis dan realistis, bebas dari imajinasi.                                           | 76  |
+| 12  | Kamu dideskripsikan sebagai 'tidak bisa berpindah tujuan'.                                                               | 93  |
 
 ## Extraverted Thinking (Te)
 
