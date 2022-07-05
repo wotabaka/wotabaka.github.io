@@ -1,7 +1,5 @@
-# Mob's Personal Wiki
+# BakaWiki
 
 [Home](index.md)
 - - - -
 [About](About.md)
-- - - -
-[Diary](diary/diary.md)
