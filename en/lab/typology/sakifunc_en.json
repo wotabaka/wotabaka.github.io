@@ -1,0 +1,482 @@
+[
+	{
+		"id": 1,
+		"q": "You are fiercely individualistic and pride yourself on your uniqueness.",
+		"cf": "Introverted feeling (Fi)"
+	},
+	{
+		"id": 2,
+		"text": "You place a lot of value on details and past experiences.",
+		"function": "Introverted sensing (Si)"
+	},
+	{
+		"id": 3,
+		"text": "You are skilled at recognizing whether the details in front of you match what you are used to.",
+		"function": "Introverted sensing (Si)"
+	},
+	{
+		"id": 4,
+		"text": "You have an eye for aesthetics and \"enjoy the finer things in life.\"",
+		"function": "Extraverted sensing (Se)"
+	},
+	{
+		"id": 5,
+		"text": "You easily recognize internal bodily sensations and act to suit your body's needs.",
+		"function": "Introverted sensing (Si)"
+	},
+	{
+		"id": 6,
+		"text": "You find yourself agreeing with those who claim that the ends justify the means.",
+		"function": "Extraverted thinking (Te)"
+	},
+	{
+		"id": 7,
+		"text": "You \"just know\" things without being able to consciously put them into words.",
+		"function": "Introverted intuition (Ni)"
+	},
+	{
+		"id": 8,
+		"text": "You feel a strong sense of unity when communicating with others in a group.",
+		"function": "Extraverted feeling (Fe)"
+	},
+	{
+		"id": 9,
+		"text": "You are blunt and straight-to-the-point in communication.",
+		"function": "Extraverted thinking (Te)"
+	},
+	{
+		"id": 10,
+		"text": "You rely only on past experiences to guide yourself through the present.",
+		"function": "Introverted sensing (Si)"
+	},
+	{
+		"id": 11,
+		"text": "You have a tendency to go off-topic in conversation.",
+		"function": "Extraverted intuition (Ne)"
+	},
+	{
+		"id": 12,
+		"text": "You live in the \"here and now.\"",
+		"function": "Extraverted sensing (Se)"
+	},
+	{
+		"id": 13,
+		"text": "You can easily think of something random to say.",
+		"function": "Extraverted intuition (Ne)"
+	},
+	{
+		"id": 14,
+		"text": "You relate present experiences back to past experiences.",
+		"function": "Introverted sensing (Si)"
+	},
+	{
+		"id": 15,
+		"text": "You dislike change.",
+		"function": "Introverted sensing (Si)"
+	},
+	{
+		"id": 16,
+		"text": "You see so many possibilities that you have trouble committing to a single one.",
+		"function": "Extraverted intuition (Ne)"
+	},
+	{
+		"id": 17,
+		"text": "You greatly value tradition and duty.",
+		"function": "Introverted sensing (Si)"
+	},
+	{
+		"id": 18,
+		"text": "You imagine things that aren't directly connected to the real world.",
+		"function": "Introverted intuition (Ni)"
+	},
+	{
+		"id": 19,
+		"text": "You may be viewed as selfish or self-centered.",
+		"function": "Introverted feeling (Fi)"
+	},
+	{
+		"id": 20,
+		"text": "You are drawn toward the abstract and often obsess over meanings.",
+		"function": "Introverted intuition (Ni)"
+	},
+	{
+		"id": 21,
+		"text": "You come up with internal logical frameworks, theories, and systems to describe the world around you.",
+		"function": "Introverted thinking (Ti)"
+	},
+	{
+		"id": 22,
+		"text": "You often arrive at conclusions that seem to come out of nowhere; you relate to \"realizing\" answers.",
+		"function": "Introverted intuition (Ni)"
+	},
+	{
+		"id": 23,
+		"text": "You believe that arriving at a truth is more important than winning an argument.",
+		"function": "Introverted thinking (Ti)"
+	},
+	{
+		"id": 24,
+		"text": "You may be viewed as \"fake\" or \"manipulative\" to others.",
+		"function": "Extraverted feeling (Fe)"
+	},
+	{
+		"id": 25,
+		"text": "You trust hard facts and data more than anything else.",
+		"function": "Extraverted thinking (Te)"
+	},
+	{
+		"id": 26,
+		"text": "You are unnerved by uncertainty and the unknown.",
+		"function": "Introverted intuition (Ni)"
+	},
+	{
+		"id": 27,
+		"text": "You rely on external sources to support your argument.",
+		"function": "Extraverted thinking (Te)"
+	},
+	{
+		"id": 28,
+		"text": "You are often the first to react to a question.",
+		"function": "Extraverted sensing (Se)"
+	},
+	{
+		"id": 29,
+		"text": "You become stubborn and resolute in the face of opposition when it comes to your personal beliefs.",
+		"function": "Introverted feeling (Fi)"
+	},
+	{
+		"id": 30,
+		"text": "You place a great amount of trust in the mysterious and unconscious world.",
+		"function": "Introverted intuition (Ni)"
+	},
+	{
+		"id": 31,
+		"text": "You greatly value social harmony and often go out of your way to maintain it.",
+		"function": "Extraverted feeling (Fe)"
+	},
+	{
+		"id": 32,
+		"text": "You try to help people to the point where you begin to forget taking care of your own needs.",
+		"function": "Extraverted feeling (Fe)"
+	},
+	{
+		"id": 33,
+		"text": "You take on subjects with a burning interest only to drop them once they no longer feel new to you.",
+		"function": "Extraverted intuition (Ne)"
+	},
+	{
+		"id": 34,
+		"text": "You would question anything.",
+		"function": "Extraverted intuition (Ne)"
+	},
+	{
+		"id": 35,
+		"text": "You are extremely objective and \"tell it as it is.\"",
+		"function": "Extraverted thinking (Te)"
+	},
+	{
+		"id": 36,
+		"text": "You easily sympathize with others' struggles.",
+		"function": "Extraverted feeling (Fe)"
+	},
+	{
+		"id": 37,
+		"text": "You have an uncanny ability of recognizing others' needs.",
+		"function": "Extraverted feeling (Fe)"
+	},
+	{
+		"id": 38,
+		"text": "You express yourself honestly and authentically.",
+		"function": "Introverted feeling (Fi)"
+	},
+	{
+		"id": 39,
+		"text": "You sometimes fail to adapt to new data because it is not consistent with your personal understanding of an idea.",
+		"function": "Introverted thinking (Ti)"
+	},
+	{
+		"id": 40,
+		"text": "You work through problems by yourself and detach yourself from other people to arrive at a conclusion.",
+		"function": "Introverted thinking (Ti)"
+	},
+	{
+		"id": 41,
+		"text": "You tend to express sympathy only after you empathize with someone.",
+		"function": "Introverted feeling (Fi)"
+	},
+	{
+		"id": 42,
+		"text": "You thrive on new and exciting experiences.",
+		"function": "Extraverted sensing (Se)"
+	},
+	{
+		"id": 43,
+		"text": "You follow a consistent routine.",
+		"function": "Introverted sensing (Si)"
+	},
+	{
+		"id": 44,
+		"text": "You are a brainstormer: you offer a multitude of different ideas in a given situation.",
+		"function": "Extraverted intuition (Ne)"
+	},
+	{
+		"id": 45,
+		"text": "You live in the present, not the past or the future.",
+		"function": "Extraverted sensing (Se)"
+	},
+	{
+		"id": 46,
+		"text": "You understand a concept by logically recognizing and drawing patterns between different, already known concepts.",
+		"function": "Introverted thinking (Ti)"
+	},
+	{
+		"id": 47,
+		"text": "You exude charisma and are usually viewed as charming by others.",
+		"function": "Extraverted feeling (Fe)"
+	},
+	{
+		"id": 48,
+		"text": "You are an excellent problem solver and have an incredible ability to analyze things in depth.",
+		"function": "Introverted thinking (Ti)"
+	},
+	{
+		"id": 49,
+		"text": "You start many different projects, but you finish few.",
+		"function": "Extraverted intuition (Ne)"
+	},
+	{
+		"id": 50,
+		"text": "You like to organize things for pleasure.",
+		"function": "Extraverted thinking (Te)"
+	},
+	{
+		"id": 51,
+		"text": "You feel as though your insights often go misunderstood.",
+		"function": "Introverted intuition (Ni)"
+	},
+	{
+		"id": 52,
+		"text": "You may be described as ditzy or scatterbrained.",
+		"function": "Extraverted intuition (Ne)"
+	},
+	{
+		"id": 53,
+		"text": "Generally, you would prefer a solution be thorough before putting it into action (at the cost of time).",
+		"function": "Introverted thinking (Ti)"
+	},
+	{
+		"id": 54,
+		"text": "You constantly set yourself on goals and objectives.",
+		"function": "Extraverted thinking (Te)"
+	},
+	{
+		"id": 55,
+		"text": "You have a strict internal moral code that comes from within regardless of any external standards.",
+		"function": "Introverted feeling (Fi)"
+	},
+	{
+		"id": 56,
+		"text": "You modify internal logical frameworks to account for new data, and you sometimes find yourself re-evaluating them when new data is incompatible with it.",
+		"function": "Introverted thinking (Ti)"
+	},
+	{
+		"id": 57,
+		"text": "You cannot help but get hung up on small details.",
+		"function": "Introverted sensing (Si)"
+	},
+	{
+		"id": 58,
+		"text": "You often feel awkward and aimless during leisure time.",
+		"function": "Extraverted thinking (Te)"
+	},
+	{
+		"id": 59,
+		"text": "You often use metaphors to communicate new ideas.",
+		"function": "Introverted intuition (Ni)"
+	},
+	{
+		"id": 60,
+		"text": "You are a risk-taker.",
+		"function": "Extraverted sensing (Se)"
+	},
+	{
+		"id": 61,
+		"text": "You are able to manipulate conversations by reading others' body language.",
+		"function": "Extraverted feeling (Fe)"
+	},
+	{
+		"id": 62,
+		"text": "You may be viewed as \"meddling\" or \"controlling\" to others.",
+		"function": "Extraverted feeling (Fe)"
+	},
+	{
+		"id": 63,
+		"text": "You stay true to yourself.",
+		"function": "Introverted feeling (Fi)"
+	},
+	{
+		"id": 64,
+		"text": "You frequently have hunches or insights about the future that turn out to be correct.",
+		"function": "Introverted intuition (Ni)"
+	},
+	{
+		"id": 65,
+		"text": "You see the big picture in a sea of details.",
+		"function": "Introverted intuition (Ni)"
+	},
+	{
+		"id": 66,
+		"text": "You often use analogies and similes to communicate new ideas.",
+		"function": "Extraverted intuition (Ne)"
+	},
+	{
+		"id": 67,
+		"text": "You consider yourself an organized person and take control of situations before they get out of hand.",
+		"function": "Extraverted thinking (Te)"
+	},
+	{
+		"id": 68,
+		"text": "You may be seen as reckless and unknowingly hurt those around you.",
+		"function": "Extraverted sensing (Se)"
+	},
+	{
+		"id": 69,
+		"text": "You may be viewed as whiny and/or depressive.",
+		"function": "Introverted feeling (Fi)"
+	},
+	{
+		"id": 70,
+		"text": "You always try to communicate tactfully with people.",
+		"function": "Extraverted feeling (Fe)"
+	},
+	{
+		"id": 71,
+		"text": "Fake people bother you.",
+		"function": "Introverted feeling (Fi)"
+	},
+	{
+		"id": 72,
+		"text": "You have an excellent sense of direction and instantly know your way around a new place.",
+		"function": "Extraverted sensing (Se)"
+	},
+	{
+		"id": 73,
+		"text": "You have a strong tendency to see things as either good or bad.",
+		"function": "Introverted feeling (Fi)"
+	},
+	{
+		"id": 74,
+		"text": "You streamline existing systems for the sake of efficiency and productivity.",
+		"function": "Extraverted thinking (Te)"
+	},
+	{
+		"id": 75,
+		"text": "You have trouble communicating with those who do not think like you.",
+		"function": "Introverted intuition (Ni)"
+	},
+	{
+		"id": 76,
+		"text": "You consider yourself a practical and realistic person, free from imagination.",
+		"function": "Extraverted sensing (Se)"
+	},
+	{
+		"id": 77,
+		"text": "You would rather sugarcoat a problem than upset someone.",
+		"function": "Extraverted feeling (Fe)"
+	},
+	{
+		"id": 78,
+		"text": "You feel as though you are one of the only truly nice people left in this world.",
+		"function": "Extraverted feeling (Fe)"
+	},
+	{
+		"id": 79,
+		"text": "You have trouble communicating your ideas with people.",
+		"function": "Introverted intuition (Ni)"
+	},
+	{
+		"id": 80,
+		"text": "You are attracted to symbolism, mysticism and the unknown.",
+		"function": "Introverted intuition (Ni)"
+	},
+	{
+		"id": 81,
+		"text": "You find it difficult to concentrate on a single subject.",
+		"function": "Extraverted intuition (Ne)"
+	},
+	{
+		"id": 82,
+		"text": "You value truth and logic more than anything else.",
+		"function": "Introverted thinking (Ti)"
+	},
+	{
+		"id": 83,
+		"text": "You have been consistently logical throughout your life.",
+		"function": "Introverted thinking (Ti)"
+	},
+	{
+		"id": 84,
+		"text": "You believe your presence is greatly felt in a room.",
+		"function": "Extraverted sensing (Se)"
+	},
+	{
+		"id": 85,
+		"text": "You absorb information from the outside world without additional processing.",
+		"function": "Extraverted sensing (Se)"
+	},
+	{
+		"id": 86,
+		"text": "You value inclusion and try your best to involve everyone in a group.",
+		"function": "Extraverted feeling (Fe)"
+	},
+	{
+		"id": 87,
+		"text": "You would do whatever it takes to win a debate.",
+		"function": "Extraverted thinking (Te)"
+	},
+	{
+		"id": 88,
+		"text": "You are drawn to the new, novel, and original.",
+		"function": "Extraverted intuition (Ne)"
+	},
+	{
+		"id": 89,
+		"text": "You generally work through problems with others and involve yourself with other people to arrive at a conclusion.",
+		"function": "Extraverted thinking (Te)"
+	},
+	{
+		"id": 90,
+		"text": "You become upset when your care for others goes unappreciated.",
+		"function": "Extraverted feeling (Fe)"
+	},
+	{
+		"id": 91,
+		"text": "You see the world as a bundle of possibilities waiting to be explored.",
+		"function": "Extraverted intuition (Ne)"
+	},
+	{
+		"id": 92,
+		"text": "You prefer living in your dreams to living in the real world.",
+		"function": "Introverted intuition (Ni)"
+	},
+	{
+		"id": 93,
+		"text": "You are described as \"stuck in your ways.\"",
+		"function": "Introverted sensing (Si)"
+	},
+	{
+		"id": 94,
+		"text": "You are hesitant to strictly conform to social roles.",
+		"function": "Introverted feeling (Fi)"
+	},
+	{
+		"id": 95,
+		"text": "You explore things in depth for purely for the sake of exploring them in depth.",
+		"function": "Introverted thinking (Ti)"
+	},
+	{
+		"id": 96,
+		"text": "You are aware of your surroundings and aren't likely to miss something right in front of you.",
+		"function": "Extraverted sensing (Se)"
+	}
+]

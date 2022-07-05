@@ -1,0 +1,482 @@
+[
+  {
+    "id": 87,
+    "text": "Kamu akan melakukan apapun demi memenangkan perdebatan.",
+    "function": "Extraverted thinking (Te)"
+  },
+  {
+    "id": 51,
+    "text": "Kamu merasa bahwa pendapatmu sering disalahpahami orang lain.",
+    "function": "Introverted intuition (Ni)"
+  },
+  {
+    "id": 57,
+    "text": "Mau tidak mau, kamu akan selalu fokus kepada detil-detil kecil.",
+    "function": "Introverted sensing (Si)"
+  },
+  {
+    "id": 40,
+    "text": "Kamu menyelesaikan masalahmu sendiri dan mengasingkan diri saat mencari kesimpulan.",
+    "function": "Introverted thinking (Ti)"
+  },
+  {
+    "id": 19,
+    "text": "Kamu mungkin terlihat egois.",
+    "function": "Introverted feeling (Fi)"
+  },
+  {
+    "id": 94,
+    "text": "Kamu ragu untuk mengasosiasikan dirimu pada suatu peran sosial secara pasti.",
+    "function": "Introverted feeling (Fi)"
+  },
+  {
+    "id": 6,
+    "text": "Kamu setuju bahwa hasil akhir adalah yang terpenting.",
+    "function": "Extraverted thinking (Te)"
+  },
+  {
+    "id": 50,
+    "text": "Kamu suka mengorganisir atau mengatur hal-hal untuk bersenang-senang.",
+    "function": "Extraverted thinking (Te)"
+  },
+  {
+    "id": 24,
+    "text": "Kamu mungkin terlihat 'palsu' atau 'manipulatif' bagi orang lain.",
+    "function": "Extraverted feeling (Fe)"
+  },
+  {
+    "id": 29,
+    "text": "Kamu menjadi keras kepala saat menghadapi pertentangan atas apa yang kamu yakini secara pribadi.",
+    "function": "Introverted feeling (Fi)"
+  },
+  {
+    "id": 92,
+    "text": "Kamu lebih memilih untuk hidup di dunia mimpimu dibanding dunia nyata.",
+    "function": "Introverted intuition (Ni)"
+  },
+  {
+    "id": 80,
+    "text": "Kamu tertarik pada filosofi dan hal-hal mistis.",
+    "function": "Introverted intuition (Ni)"
+  },
+  {
+    "id": 55,
+    "text": "Kamu memiliki standar moral pribadi yang tidak akan terpengaruhi oleh faktor-faktor eksternal.",
+    "function": "Introverted feeling (Fi)"
+  },
+  {
+    "id": 91,
+    "text": "Kamu melihat dunia sebagai kumpulan kemungkinan yang menunggu untuk dieksplor.",
+    "function": "Extraverted intuition (Ne)"
+  },
+  {
+    "id": 44,
+    "text": "Kamu menyukai diskusi, kamu menawarkan banyak ide dalam situasi yang ada.",
+    "function": "Extraverted intuition (Ne)"
+  },
+  {
+    "id": 86,
+    "text": "Kamu menghargai kesetaraan hak dan berusaha keras untuk membuat semua orang terlibat dalam sebuah kelompok.",
+    "function": "Extraverted feeling (Fe)"
+  },
+  {
+    "id": 7,
+    "text": "Kamu seringkali kesusahan untuk mengungkapkan suatu hal dalam kata-kata walaupun kamu memahami hal tersebut.",
+    "function": "Introverted intuition (Ni)"
+  },
+  {
+    "id": 72,
+    "text": "Kamu punya indera navigasi yang bagus dan mudah tahu arah walaupun di tempat baru.",
+    "function": "Extraverted sensing (Se)"
+  },
+  {
+    "id": 90,
+    "text": "Kamu sedih jika perhatianmu untuk orang lain tidak dihargai.",
+    "function": "Extraverted feeling (Fe)"
+  },
+  {
+    "id": 11,
+    "text": "Kamu punya kecenderungan untuk berbicara keluar dari topik dalam sebuah percakapan.",
+    "function": "Extraverted intuition (Ne)"
+  },
+  {
+    "id": 42,
+    "text": "Kamu menyukai pengalaman yang baru dan mengasyikkan.",
+    "function": "Extraverted sensing (Se)"
+  },
+  {
+    "id": 28,
+    "text": "Biasanya, kamu adalah yang pertama bereaksi terhadap suatu pertanyaan.",
+    "function": "Extraverted sensing (Se)"
+  },
+  {
+    "id": 73,
+    "text": "Kamu punya kecenderungan untuk menentukan 'baik' dan 'buruk' dari suatu hal.",
+    "function": "Introverted feeling (Fi)"
+  },
+  {
+    "id": 22,
+    "text": "Kamu sering mengambil kesimpulan yang datang entah dari mana; kamu cenderung 'menyadari' jawaban.",
+    "function": "Introverted intuition (Ni)"
+  },
+  {
+    "id": 18,
+    "text": "Kamu mengimajinasikan hal-hal yang tidak berhubungan langsung dengan dunia nyata.",
+    "function": "Introverted intuition (Ni)"
+  },
+  {
+    "id": 75,
+    "text": "Kamu punya kesulitan berkomunikasi dengan orang-orang yang memiliki pandangan berbeda.",
+    "function": "Introverted intuition (Ni)"
+  },
+  {
+    "id": 93,
+    "text": "Kamu dideskripsikan sebagai 'tidak bisa berpindah tujuan'.",
+    "function": "Introverted sensing (Si)"
+  },
+  {
+    "id": 66,
+    "text": "Dalam mengungkapkan ide-ide baru, kamu sering menggunakan analogi atau pengibaratan.",
+    "function": "Extraverted intuition (Ne)"
+  },
+  {
+    "id": 52,
+    "text": "Kamu mungkin dideskripsikan sebagai orang yang 'berkepala kosong'.",
+    "function": "Extraverted intuition (Ne)"
+  },
+  {
+    "id": 96,
+    "text": "Kamu sadar akan hal-hal di sekitarmu dan tidak mungkin melewatkan sesuatu yang terjadi di depan matamu.",
+    "function": "Extraverted sensing (Se)"
+  },
+  {
+    "id": 70,
+    "text": "Kamu selalu berusaha untuk berkomunikasi secara bijaksana.",
+    "function": "Extraverted feeling (Fe)"
+  },
+  {
+    "id": 17,
+    "text": "Kamu sangat menghargai tradisi dan kewajiban.",
+    "function": "Introverted sensing (Si)"
+  },
+  {
+    "id": 33,
+    "text": "Kamu sangat bersemangat atas hal baru. Namun, ketika hal itu tidak lagi terasa baru, kamu akan menelantarkannya.",
+    "function": "Extraverted intuition (Ne)"
+  },
+  {
+    "id": 43,
+    "text": "Kamu mengikuti sebuah rutinitas yang konsisten.",
+    "function": "Introverted sensing (Si)"
+  },
+  {
+    "id": 63,
+    "text": "Kamu jujur pada dirimu sendiri.",
+    "function": "Introverted feeling (Fi)"
+  },
+  {
+    "id": 59,
+    "text": "Kamu banyak mengunakan kiasan puitis untuk menyampaikan ide-ide baru.",
+    "function": "Introverted intuition (Ni)"
+  },
+  {
+    "id": 10,
+    "text": "Kamu hanya mengandalkan pengalaman yang lampau untuk memandumu melewati masa kini.",
+    "function": "Introverted sensing (Si)"
+  },
+  {
+    "id": 25,
+    "text": "Kamu mempercayai fakta dan data lebih dari apapun.",
+    "function": "Extraverted thinking (Te)"
+  },
+  {
+    "id": 77,
+    "text": "Kamu lebih memilih untuk berbohong demi kebaikan daripada mengecewakan seseorang.",
+    "function": "Extraverted feeling (Fe)"
+  },
+  {
+    "id": 45,
+    "text": "Kamu hidup di masa kini, bukan masa lalu atau masa depan.",
+    "function": "Extraverted sensing (Se)"
+  },
+  {
+    "id": 60,
+    "text": "Kamu adalah seorang pengambil resiko.",
+    "function": "Extraverted sensing (Se)"
+  },
+  {
+    "id": 13,
+    "text": "Mudah bagimu untuk memikirkan sesuatu yang abstrak dan acak untuk dikatakan.",
+    "function": "Extraverted intuition (Ne)"
+  },
+  {
+    "id": 9,
+    "text": "Kamu tidak bertele-tele dalam berkomunikasi.",
+    "function": "Extraverted thinking (Te)"
+  },
+  {
+    "id": 95,
+    "text": "Kamu mengeksplor hal-hal secara mendalam hanya karena kamu ingin tahu lebih dalam.",
+    "function": "Introverted thinking (Ti)"
+  },
+  {
+    "id": 30,
+    "text": "Kamu menaruh kepercayaan yang banyak terhadap alam bawah sadar dan hal-hal misterius.",
+    "function": "Introverted intuition (Ni)"
+  },
+  {
+    "id": 85,
+    "text": "Kamu menerima sebuah informasi dari dunia luar tanpa pikir panjang.",
+    "function": "Extraverted sensing (Se)"
+  },
+  {
+    "id": 14,
+    "text": "Kamu menghubungkan pengalaman masa kini dengan pengalaman masa lalu",
+    "function": "Introverted sensing (Si)"
+  },
+  {
+    "id": 41,
+    "text": "Kamu cenderung baru mengekspresikan simpati setelah berempati terlebih dahulu.",
+    "function": "Introverted feeling (Fi)"
+  },
+  {
+    "id": 81,
+    "text": "Susah bagimu untuk berkonsentrasi pada satu hal saja.",
+    "function": "Extraverted intuition (Ne)"
+  },
+  {
+    "id": 5,
+    "text": "Kamu mudah menyadari rangsangan/sensasi internal dari tubuh dan bisa mengambil tindakan sesuai dengan kebutuhan tubuhmu.",
+    "function": "Introverted sensing (Si)"
+  },
+  {
+    "id": 20,
+    "text": "Kamu tertarik dengan hal-hal abstrak dan sering terobsesi dengan makna tersembunyi.",
+    "function": "Introverted intuition (Ni)"
+  },
+  {
+    "id": 61,
+    "text": "Kamu bisa memanipulasi percakapan dengan menganalisa bahasa tubuh orang lain.",
+    "function": "Extraverted feeling (Fe)"
+  },
+  {
+    "id": 67,
+    "text": "Menurutmu, kamu adalah orang yang terorganisir dan mampu mengontrol sesuatu sebelum terjadi kekacauan.",
+    "function": "Extraverted thinking (Te)"
+  },
+  {
+    "id": 4,
+    "text": "Kamu menyukai keindahan dan \"menikmati hal-hal yang baik dalam hidup.\"",
+    "function": "Extraverted sensing (Se)"
+  },
+  {
+    "id": 2,
+    "text": "Kamu sangat memperhitungkan detil dan pengalaman yang lampau.",
+    "function": "Introverted sensing (Si)"
+  },
+  {
+    "id": 23,
+    "text": "Menurutmu, mendapat kebenaran atau fakta lebih penting dari memenangkan sebuah perdebatan.",
+    "function": "Introverted thinking (Ti)"
+  },
+  {
+    "id": 89,
+    "text": "Kamu biasanya menyelesaikan masalah bersama orang lain dan melibatkan mereka dalam pengambilan keputusan.",
+    "function": "Extraverted thinking (Te)"
+  },
+  {
+    "id": 21,
+    "text": "Untuk mendeskripsikan dunia di sekelilingmu, kamu membuat kerangka kerja, teori dan sistem yang logis secara internal.",
+    "function": "Introverted thinking (Ti)"
+  },
+  {
+    "id": 82,
+    "text": "Kamu menghargai kebenaran dan logika lebih dari apapun.",
+    "function": "Introverted thinking (Ti)"
+  },
+  {
+    "id": 83,
+    "text": "Kamu telah menjadi logis secara konsisten seumur hidupmu.",
+    "function": "Introverted thinking (Ti)"
+  },
+  {
+    "id": 68,
+    "text": "Kamu mungkin terlihat bar-bar dan menyakiti orang-orang disekitarmu tanpa sadar.",
+    "function": "Extraverted sensing (Se)"
+  },
+  {
+    "id": 36,
+    "text": "Kamu mudah bersimpati kepada kesulitan yang dihadapi orang lain.",
+    "function": "Extraverted feeling (Fe)"
+  },
+  {
+    "id": 12,
+    "text": "Kamu hidup di 'tempat ini dan saat ini'.",
+    "function": "Extraverted sensing (Se)"
+  },
+  {
+    "id": 15,
+    "text": "Kamu tidak menyukai perubahan.",
+    "function": "Introverted sensing (Si)"
+  },
+  {
+    "id": 1,
+    "text": "Kamu sangat individualistis dan melihat keunikanmu sebagai bagian dari harga diri.",
+    "function": "Introverted feeling (Fi)"
+  },
+  {
+    "id": 46,
+    "text": "Caramu memahami sebuah konsep adalah mengidentifikasinya secara logis dan menghubungkan pola antara konsep-konsep yang ada.",
+    "function": "Introverted thinking (Ti)"
+  },
+  {
+    "id": 88,
+    "text": "Kamu tertarik dengan hal-hal yang baru, asing, dan orisinal.",
+    "function": "Extraverted intuition (Ne)"
+  },
+  {
+    "id": 74,
+    "text": "Kamu mengambil jalan pintas yang tidak sesuai dengan kebiasaan yang ada demi efisiensi dan produktivitas.",
+    "function": "Extraverted thinking (Te)"
+  },
+  {
+    "id": 38,
+    "text": "Kamu mengekspresikan dirimu dengan jujur dan otentik.",
+    "function": "Introverted feeling (Fi)"
+  },
+  {
+    "id": 76,
+    "text": "Menurutmu, kamu adalah orang yang praktis dan realistis, bebas dari imajinasi.",
+    "function": "Extraverted sensing (Se)"
+  },
+  {
+    "id": 39,
+    "text": "Kamu sulitl beradaptasi dengan data-data baru karena tidak sesuai dengan pemahaman pribadimu atas sebuah ide.",
+    "function": "Introverted thinking (Ti)"
+  },
+  {
+    "id": 56,
+    "text": "Kamu memodifikasi sistem logika internalmu untuk memasukkan data baru, dan akan mengevaluasi ulang sistem itu jika datanya tidak cocok.",
+    "function": "Introverted thinking (Ti)"
+  },
+  {
+    "id": 48,
+    "text": "Kamu pemecah masalah yang baik dan memiliki kemampuan untuk menganalisis secara mendalam.",
+    "function": "Introverted thinking (Ti)"
+  },
+  {
+    "id": 35,
+    "text": "Kamu sangat objektif dan 'berkata apa adanya'.",
+    "function": "Extraverted thinking (Te)"
+  },
+  {
+    "id": 3,
+    "text": "Kamu berbakat dalam mengidentifikasi apakah sebuah detail cocok dengan kebiasaan yang ada.",
+    "function": "Introverted sensing (Si)"
+  },
+  {
+    "id": 62,
+    "text": "Kamu mungkin terlihat 'ikut campur' atau 'suka mengatur' di mata orang lain.",
+    "function": "Extraverted feeling (Fe)"
+  },
+  {
+    "id": 8,
+    "text": "Kamu merasakan solidaritas tingkat tinggi ketika berkomunikasi dalam kelompok.",
+    "function": "Extraverted feeling (Fe)"
+  },
+  {
+    "id": 16,
+    "text": "Saking banyaknya kemungkinan yang kamu temukan, susah bagimu untuk berkomitmen pada satu keputusan.",
+    "function": "Extraverted intuition (Ne)"
+  },
+  {
+    "id": 37,
+    "text": "Kemampuanmu dalam menyadari kebutuhan orang lain tidak bisa diragukan.",
+    "function": "Extraverted feeling (Fe)"
+  },
+  {
+    "id": 78,
+    "text": "Kamu merasa seakan kamu adalah satu dari segelintir orang baik yang tersisa di dunia ini.",
+    "function": "Extraverted feeling (Fe)"
+  },
+  {
+    "id": 32,
+    "text": "Kamu mencoba membantu orang lain sampai kamu mulai lupa memeperhatikan kebutuhan pribadimu.",
+    "function": "Extraverted feeling (Fe)"
+  },
+  {
+    "id": 27,
+    "text": "Kamu mengandalkan sumber-sumber eksternal untuk mendukung argumenmu.",
+    "function": "Extraverted thinking (Te)"
+  },
+  {
+    "id": 54,
+    "text": "Kamu selalu menetapkan target pribadi.",
+    "function": "Extraverted thinking (Te)"
+  },
+  {
+    "id": 26,
+    "text": "Kamu tidak tertarik dengan ketidakpastian atau hal-hal yang belum diketahui.",
+    "function": "Introverted intuition (Ni)"
+  },
+  {
+    "id": 34,
+    "text": "Kamu mempertanyakan segala hal.",
+    "function": "Extraverted intuition (Ne)"
+  },
+  {
+    "id": 58,
+    "text": "Ketika memiliki waktu luang, kamu merasa canggung dan tanpa tujuan.",
+    "function": "Extraverted thinking (Te)"
+  },
+  {
+    "id": 84,
+    "text": "Kamu percaya bahwa keberadaanmu dalam sebuah ruangan pasti disadari orang lain.",
+    "function": "Extraverted sensing (Se)"
+  },
+  {
+    "id": 69,
+    "text": "Kamu mungkin terlihat cengeng atau penuh depresi.",
+    "function": "Introverted feeling (Fi)"
+  },
+  {
+    "id": 71,
+    "text": "Orang-orang palsu membuatmu sebal.",
+    "function": "Introverted feeling (Fi)"
+  },
+  {
+    "id": 79,
+    "text": "Kamu punya kesulitan untuk menyampaikan ide-idemu kepada orang lain.",
+    "function": "Introverted intuition (Ni)"
+  },
+  {
+    "id": 65,
+    "text": "Kamu melihat gambaran besar alih-alih lautan detail.",
+    "function": "Introverted intuition (Ni)"
+  },
+  {
+    "id": 31,
+    "text": "Kamu sangat menghargai harmoni dalam kehidupan sosial dan sering berusaha keras untuk mempertahankannya.",
+    "function": "Extraverted feeling (Fe)"
+  },
+  {
+    "id": 53,
+    "text": "Menurutmu, suatu solusi lebih baik dibahas secara menyeluruh sebelum dieksekusi, meskipun waktu yang jadi taruhannya.",
+    "function": "Introverted thinking (Ti)"
+  },
+  {
+    "id": 47,
+    "text": "Kamu berkarisma dan biasanya dilihat sebagai orang yang menawan.",
+    "function": "Extraverted feeling (Fe)"
+  },
+  {
+    "id": 64,
+    "text": "Kamu seringkali memiliki firasat tentang sesuatu di masa depan yang pada akhirnya terbukti benar.",
+    "function": "Introverted intuition (Ni)"
+  },
+  {
+    "id": 49,
+    "text": "Kamu memulai banyak rencana, namun hanya beberapa yang akhirnya bisa kamu selesaikan.",
+    "function": "Extraverted intuition (Ne)"
+  }
+]

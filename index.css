@@ -1,0 +1,17 @@
+@font-face {
+  font-family: JetBrainsMonoMedium;
+  src: url("fonts/JetBrainsMonoMedium.ttf");
+}
+/*
+@font-face {
+  font-family: "Iosevka";
+  src: url("Iosevka.ttf");
+}
+*/
+
+* {
+  font-family: JetBrainsMonoMedium, monospace;
+  /*font-family: "JetBrainsMono", monospace;*/
+  /*font-family: "Iosevka", monospace;*/
+}
+
