@@ -12,6 +12,8 @@ Peace out!
 
 My current typology profile is:
 
+| typology     | type                   |
+| ---          | ---                    |
 | Myers-Briggs | INFJ                   |
 | Big 5        | RCOAI                  |
 | Socionics    | EII                    |
