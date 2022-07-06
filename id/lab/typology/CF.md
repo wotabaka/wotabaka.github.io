@@ -1,4 +1,4 @@
-# Rangkuman pribadi fungsi kognitif tes sakinorva
+# Rangkuman fungsi kognitif tes sakinorva
 
 - Disklaimer: Data diambil tanpa izin dari sakinorva.net;
 - Silahkan tes sendiri disini: https://sakinorva.net/functions
