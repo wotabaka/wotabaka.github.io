@@ -140,11 +140,11 @@ Rincian jumlah per 96 data:
 | 5   | Kamu mudah bersimpati kepada kesulitan yang dihadapi orang lain.                                            | 36  |      |
 | 6   | Kemampuanmu dalam menyadari kebutuhan orang lain tidak bisa diragukan.                                      | 37  |      |
 | 7   | Kamu berkarisma dan biasanya dilihat sebagai orang yang menawan.                                            | 47  |      |
-| 9   | Kamu mungkin terlihat 'ikut campur' atau 'suka mengatur' di mata orang lain.                                | 62  |      |
-| 10  | Kamu selalu berusaha untuk berkomunikasi secara bijaksana.                                                  | 70  |      |
-| 11  | Kamu lebih memilih untuk berbohong demi kebaikan daripada mengecewakan seseorang.                           | 77  |      |
-| 12  | Kamu menghargai kesetaraan hak dan berusaha keras untuk membuat semua orang terlibat dalam sebuah kelompok. | 86  |      |
-| 13  | Kamu sedih jika perhatianmu untuk orang lain tidak dihargai.                                                | 90  |      |
+| 8   | Kamu mungkin terlihat 'ikut campur' atau 'suka mengatur' di mata orang lain.                                | 62  |      |
+| 9   | Kamu selalu berusaha untuk berkomunikasi secara bijaksana.                                                  | 70  |      |
+| 10  | Kamu lebih memilih untuk berbohong demi kebaikan daripada mengecewakan seseorang.                           | 77  |      |
+| 11  | Kamu menghargai kesetaraan hak dan berusaha keras untuk membuat semua orang terlibat dalam sebuah kelompok. | 86  |      |
+| 12  | Kamu sedih jika perhatianmu untuk orang lain tidak dihargai.                                                | 90  |      |
 
 ## Introverted Feeling (Fi)
 
