@@ -12,12 +12,13 @@ Peace out!
 
 My current typology profile is:
 
-| typology     | type                   |
-| ---          | ---                    |
-| Myers-Briggs | INFJ                   |
-| Big 5        | RCOAI                  |
-| Socionics    | EII                    |
-| Enneagram    | 9w1                    |
-| Tritype      | 954                    |
-| Psyche       | LEFV                   |
-| Temperament  | Melancholic-Phlegmatic |
+| typology         | type                   |
+| ---              | ---                    |
+| Myers-Briggs     | INFJ                   |
+| Big 5            | RCOAI                  |
+| Socionics        | EII                    |
+| Enneagram        | 9w1                    |
+| Tritype          | 954                    |
+| Instinct variant | sp/sx                  |
+| Psyche           | LEFV                   |
+| Temperament      | Melancholic-Phlegmatic |
