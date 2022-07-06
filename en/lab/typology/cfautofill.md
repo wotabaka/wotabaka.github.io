@@ -13,6 +13,8 @@ what's axis-based? i don't fuckin' understand
 init : 23
 max  : 45 ?
 min  : 1  ?
+
+some questions have ita own scoring rule
 ```
 
 * grant-brownsword
