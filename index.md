@@ -1,17 +1,20 @@
 # Section
 
-- Random ideas, i guess?:
-  - no ideas.. me no brain
+### Random ideas, i guess?:
+- no ideas.. me no brain
 
-- Writing:
+
+### Writing:
   - eeeeeee
 
-- Lab:
+
+### Lab:
   - typology:
     - [scraping sakinorva'a CF test](id/lab/typology/CF.md) 
     - [autofill CF test using DOM](en/lab/typology/cfautofill.md)
     - [do sakinorva rowe test in just 5 seconds!](en/lab/typology/sakirowerandom.md)
 
-- what else ?:
+
+### what else ?:
   - e
   - [code snippets](snippets/index.md)
