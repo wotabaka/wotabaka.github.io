@@ -14,12 +14,12 @@ Rincian jumlah per 96 data:
   "cf": {
     "Ne": 12,
     "Ni": 13,
-    "Se": 11,
+    "Se": 12,
     "Si": 12,
     "Te": 12,
     "Ti": 11,
-    "Fe": 14,
-    "Fi": 11
+    "Fe": 12,
+    "Fi": 12
   },
   "total": 96
 }

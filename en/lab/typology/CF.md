@@ -9,12 +9,12 @@ CF count (only about 30% of them have been validated):
   "cf": {
     "Ne": 12,
     "Ni": 13,
-    "Se": 11,
+    "Se": 12,
     "Si": 12,
     "Te": 12,
     "Ti": 11,
-    "Fe": 14,
-    "Fi": 11
+    "Fe": 12,
+    "Fi": 12
   },
   "total": 96
 }
@@ -69,11 +69,12 @@ CF count (only about 30% of them have been validated):
 | 4   | You thrive on new and exciting experiences.                                                   | 42  |
 | 5   | You live in the present, not the past or the future.                                          | 45  |
 | 6   | You are a risk-taker.                                                                         | 60  |
-| 7   | You may be seen as reckless and unknowingly hurt those around you.                            | 68  |
-| 8   | You have an excellent sense of direction and instantly know your way around a new place.      | 72  |
-| 9   | You believe your presence is greatly felt in a room.                                          | 84  |
-| 10  | You absorb information from the outside world without additional processing.                  | 85  |
-| 11  | You are aware of your surroundings and aren't likely to miss something right in front of you. | 96  |
+| 7   | You are able to manipulate conversations by reading others\' body language.                   | 61  |
+| 8   | You may be seen as reckless and unknowingly hurt those around you.                            | 68  |
+| 9   | You have an excellent sense of direction and instantly know your way around a new place.      | 72  |
+| 10  | You believe your presence is greatly felt in a room.                                          | 84  |
+| 11  | You absorb information from the outside world without additional processing.                  | 85  |
+| 12  | You are aware of your surroundings and aren't likely to miss something right in front of you. | 96  |
 
 
 ## Introverted Sensing (Si)
@@ -140,13 +141,11 @@ CF count (only about 30% of them have been validated):
 | 5   | You easily sympathize with others\' struggles.                                               | 36  |
 | 6   | You have an uncanny ability of recognizing others\' needs.                                   | 37  |
 | 7   | You exude charisma and are usually viewed as charming by others.                             | 47  |
-| 8   | You are able to manipulate conversations by reading others\' body language.                  | 61  |
-| 9   | You may be viewed as "meddling" or "controlling" to others.                                  | 62  |
-| 10  | You always try to communicate tactfully with people.                                         | 70  |
-| 11  | You would rather sugarcoat a problem than upset someone.                                     | 77  |
-| 12  | You feel as though you are one of the only truly nice people left in this world.             | 78  |
-| 13  | You value inclusion and try your best to involve everyone in a group.                        | 86  |
-| 14  | You become upset when your care for others goes unappreciated.                               | 90  |
+| 8   | You may be viewed as "meddling" or "controlling" to others.                                  | 62  |
+| 9   | You always try to communicate tactfully with people.                                         | 70  |
+| 10  | You would rather sugarcoat a problem than upset someone.                                     | 77  |
+| 11  | You value inclusion and try your best to involve everyone in a group.                        | 86  |
+| 12  | You become upset when your care for others goes unappreciated.                               | 90  |
 
 
 ## Introverted Feeling (Fi)
@@ -162,5 +161,6 @@ CF count (only about 30% of them have been validated):
 | 7   | You stay true to yourself.                                                                         | 63  |
 | 8   | You may be viewed as whiny and/or depressive.                                                      | 69  |
 | 9   | Fake people bother you.                                                                            | 71  |
-| 10  | You have a strong tendency to see things as either good or bad.                                    | 73  |
-| 11  | You are hesitant to strictly conform to social roles.                                              | 94  |
+| 10  | You feel as though you are one of the only truly nice people left in this world.             | 78  |
+| 11  | You have a strong tendency to see things as either good or bad.                                    | 73  |
+| 12  | You are hesitant to strictly conform to social roles.                                              | 94  |
