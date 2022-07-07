@@ -17,9 +17,22 @@ min  : 1  ?
 some questions have its own scoring rule
 ```
 
-* grant-brownsword
-formula (I surely miss something here):
-`Dom(!0?+.5) + Aux(!0?-.5) + Tert(!0?-1.5) - Inf`
+## score algorithm
+formula (I maybe miss something here):
+```
+each point +0.5 for Dom
+each point -0.5 for Aux
+each point -1.5 for Tert
+
+lets just assume if point checked is 11
+then (11*0.5) will be added to Dom.
+then (11*1.5) will be substracted from Tert.
+
++ Dom  (v-23 ? +0.5 * p)
++ Aux  (v-23 ? -0.5 * p)
++ Tert (v-23 ? -1.5 * p)
+- Inf
+```
 * myers letters
 `difficult to know, don't know how to automate it :(`
 
