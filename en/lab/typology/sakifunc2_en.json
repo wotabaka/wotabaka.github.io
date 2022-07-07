@@ -1,0 +1,138 @@
+{
+  "Ne": {
+    "count": 12,
+    "ids": [
+      [11, "You have a tendency to go off-topic in conversation."],
+      [13, "You can easily think of something random to say."],
+      [16, "You see so many possibilities that you have trouble committing to a single one."],
+      [33, "You take on subjects with a burning interest only to drop them once they no longer feel new to you."],
+      [34, "You would question anything."],
+      [44, "You are a brainstormer: you offer a multitude of different ideas in a given situation."],
+      [49, "You start many different projects, but you finish few."],
+      [52, "You may be described as ditzy or scatterbrained."],
+      [66, "You often use analogies and similes to communicate new ideas."],
+      [81, "You find it difficult to concentrate on a single subject."],
+      [88, "You are drawn to the new, novel, and original."],
+      [91, "You see the world as a bundle of possibilities waiting to be explored."]
+    ]
+  },
+  "Ni": {
+    "count": 13,
+    "ids": [
+      [7, "You \"just know\" things without being able to consciously put them into words."],
+      [18, "You imagine things that aren't directly connected to the real world."],
+      [20, "You are drawn toward the abstract and often obsess over meanings."],
+      [22, "You often arrive at conclusions that seem to come out of nowhere; you relate to \"realizing\" answers."],
+      [30, "You place a great amount of trust in the mysterious and unconscious world."],
+      [51, "You feel as though your insights often go misunderstood."],
+      [59, "You often use metaphors to communicate new ideas."],
+      [64, "You frequently have hunches or insights about the future that turn out to be correct."],
+      [65, "You see the big picture in a sea of details."],
+      [75, "You have trouble communicating with those who do not think like you."],
+      [79, "You have trouble communicating your ideas with people."],
+      [80, "You are attracted to symbolism, mysticism and the unknown."],
+      [92, "You prefer living in your dreams to living in the real world."]
+    ]
+  },
+  "Se": {
+    "count": 12,
+    "ids": [
+      [4, "You have an eye for aesthetics and \"enjoy the finer things in life.\""] ,
+      [12, "You live in the \"here and now.\""],
+      [28, "You are often the first to react to a question."],
+      [42, "You thrive on new and exciting experiences."],
+      [45, "You live in the present, not the past or the future."],
+      [60, "You are a risk-taker."],
+      [61, "You are able to manipulate conversations by reading others' body language."],
+      [68, "You may be seen as reckless and unknowingly hurt those around you."],
+      [72, "You have an excellent sense of direction and instantly know your way around a new place."],
+      [84, "You believe your presence is greatly felt in a room."],
+      [85, "You absorb information from the outside world without additional processing."],
+      [96, "You are aware of your surroundings and aren't likely to miss something right in front of you."]
+    ]
+  },
+  "Si": {
+    "count": 12,
+    "ids": [
+      [2, "You place a lot of value on details and past experiences."],
+      [3, "You are skilled at recognizing whether the details in front of you match what you are used to."],
+      [5, "You easily recognize internal bodily sensations and act to suit your body's needs."],
+      [10, "You rely only on past experiences to guide yourself through the present."],
+      [14, "You relate present experiences back to past experiences."],
+      [15, "You dislike change."],
+      [17, "You greatly value tradition and duty."],
+      [26, "You are unnerved by uncertainty and the unknown."],
+      [43, "You follow a consistent routine."],
+      [57, "You cannot help but get hung up on small details."],
+      [76, "You consider yourself a practical and realistic person, free from imagination."],
+      [93, "You are described as \"stuck in your ways.\""]
+    ]
+  },
+  "Te": {
+    "count": 12,
+    "ids": [
+      [6, "You find yourself agreeing with those who claim that the ends justify the means."],
+      [9, "You are blunt and straight-to-the-point in communication."],
+      [25, "You trust hard facts and data more than anything else."],
+      [27, "You rely on external sources to support your argument."],
+      [35, "You are extremely objective and \"tell it as it is.\""],
+      [50, "You like to organize things for pleasure."],
+      [54, "You constantly set yourself on goals and objectives."],
+      [58, "You often feel awkward and aimless during leisure time."],
+      [67, "You consider yourself an organized person and take control of situations before they get out of hand."],
+      [74, "You streamline existing systems for the sake of efficiency and productivity."],
+      [87, "You would do whatever it takes to win a debate."],
+      [89, "You generally work through problems with others and involve yourself with other people to arrive at a conclusion."],
+    ]
+  },
+  "Ti": {
+    "count": 11,
+    "ids": [
+      [21, "You come up with internal logical frameworks, theories, and systems to describe the world around you."],
+      [23, "You believe that arriving at a truth is more important than winning an argument."],
+      [39, "You sometimes fail to adapt to new data because it is not consistent with your personal understanding of an idea."],
+      [40, "You work through problems by yourself and detach yourself from other people to arrive at a conclusion."],
+      [46, "You understand a concept by logically recognizing and drawing patterns between different, already known concepts."],
+      [48, "You are an excellent problem solver and have an incredible ability to analyze things in depth."],
+      [53, "Generally, you would prefer a solution be thorough before putting it into action (at the cost of time)."],
+      [56, "You modify internal logical frameworks to account for new data, and you sometimes find yourself re-evaluating them when new data is incompatible with it."],
+      [82, "You value truth and logic more than anything else."],
+      [83, "You have been consistently logical throughout your life."],
+      [95, "You explore things in depth for purely for the sake of exploring them in depth."]
+    ]
+  },
+  "Fe": {
+    "count": 12,
+    "ids": [
+      [8, "You feel a strong sense of unity when communicating with others in a group."],
+      [24, "You may be viewed as \"fake\" or \"manipulative\" to others."],
+      [31, "You greatly value social harmony and often go out of your way to maintain it."],
+      [32, "You try to help people to the point where you begin to forget taking care of your own needs."],
+      [36, "You easily sympathize with others' struggles."],
+      [37, "You have an uncanny ability of recognizing others' needs."],
+      [47, "You exude charisma and are usually viewed as charming by others."],
+      [62, "You may be viewed as \"meddling\" or \"controlling\" to others."],
+      [70, "You always try to communicate tactfully with people."],
+      [77, "You would rather sugarcoat a problem than upset someone."],
+      [86, "You value inclusion and try your best to involve everyone in a group."],
+      [90, "You become upset when your care for others goes unappreciated."],
+    ]
+  },
+  "Fi": {
+    "count": 12,
+    "ids": [
+      [1, "You are fiercely individualistic and pride yourself on your uniqueness."],
+      [19, "You may be viewed as selfish or self-centered."],
+      [29, "You become stubborn and resolute in the face of opposition when it comes to your personal beliefs."],
+      [38, "You express yourself honestly and authentically."],
+      [41, "You tend to express sympathy only after you empathize with someone."],
+      [55, "You have a strict internal moral code that comes from within regardless of any external standards."],
+      [63, "You stay true to yourself."],
+      [69, "You may be viewed as whiny and/or depressive."],
+      [71, "Fake people bother you."],
+      [73, "You have a strong tendency to see things as either good or bad."],
+      [78, "You feel as though you are one of the only truly nice people left in this world."],
+      [94, "You are hesitant to strictly conform to social roles."]
+    ]
+  }
+}

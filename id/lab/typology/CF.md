@@ -1,31 +1,15 @@
 # Rangkuman fungsi kognitif tes sakinorva
 
-- Disklaimer: Data diambil tanpa izin dari sakinorva.net;
-- Silahkan tes sendiri disini: https://sakinorva.net/functions
+> Disklaimer: data diambil tanpa izin dari https://sakinorva.net/functions
 
-DOM scraper:
-```
+DOM-based scraper:
+
+```javascript
 for(qq=[],q=document.querySelectorAll("input#answer"),i=0;i<480;i+=5)e=q[i].parentNode.parentNode.previousElementSibling.innerText.split(" "),e.shift(),qq.push([+q[i].name.replace("q",""),e.join(" ").replace('"','\\"')]);for(i of(body=document.querySelector("body"),body.innerHTML="[<br/>",qq))body.innerHTML+=`  { "id": ${i[0]}, "text": "${i[1]}", "function": "Xx" },<br/>`;body.innerHTML+="]"};void(0)
 ```
 
-Rincian jumlah per 96 data:
-```json
-{
-  "cf": {
-    "Ne": 12,
-    "Ni": 13,
-    "Se": 12,
-    "Si": 12,
-    "Te": 12,
-    "Ti": 11,
-    "Fe": 12,
-    "Fi": 12
-  },
-  "total": 96
-}
-```
-
 > [data mentahan](sakifunc_id.json)
+> [data mentahan v2](sakifunc2_id.json)
 
 ## Extraverted Intuition (Ne)
 
@@ -164,4 +148,4 @@ Rincian jumlah per 96 data:
 | 12  | Kamu ragu untuk mengasosiasikan dirimu pada suatu peran sosial secara pasti.                     | 94  |      |
 
 
-*dibantu koreksi oleh Munchau dan kawan-kawan di grup Telegram MBTI INDONESIA
+<em>*dibantu koreksi oleh Munchau dan kawan-kawan di grup Telegram MBTI INDONESIA</em>

@@ -1,26 +1,10 @@
-### Learn Cognitive Function by Examples
+# Sakinorva cognitive function test extraction ?
 
-These data is scraped from sakinorva.net.
+These data is scraped from sakinorva.net;
 Take the test: https://sakinorva.net/functions
 
-CF count (only about 30% of them have been validated):
-```json
-{
-  "cf": {
-    "Ne": 12,
-    "Ni": 13,
-    "Se": 12,
-    "Si": 12,
-    "Te": 12,
-    "Ti": 11,
-    "Fe": 12,
-    "Fi": 12
-  },
-  "total": 96
-}
-```
-
 > [view raw](sakifunc_en.json)
+> [view raw v2](sakifunc2_en.json)
 
 ## Extraverted Intuition (Ne)
 
