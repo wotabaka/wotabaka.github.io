@@ -1,7 +1,6 @@
 # Sakinorva cognitive function test extraction ?
 
-These data is scraped from sakinorva.net;
-Take the test: https://sakinorva.net/functions
+These data is scraped from https://sakinorva.net/functions
 
 > [view raw](sakifunc_en.json)
 > [view raw v2](sakifunc2_en.json)

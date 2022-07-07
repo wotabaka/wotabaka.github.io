@@ -14,14 +14,15 @@ init : 23
 max  : 45 ?
 min  : 1  ?
 
-some questions have ita own scoring rule
+some questions have its own scoring rule
 ```
 
 * grant-brownsword
-formula:
+formula (I surely miss something here):
 `Dom(!0?+.5) + Aux(!0?-.5) + Tert(!0?-1.5) - Inf`
 * myers letters
-`difficult to know`
+`difficult to know, don't know how to automate it :(`
+
 
 ## in JavaScript:
 ```javascript
@@ -65,7 +66,7 @@ const score = (c) => {
   const aux = cf[c[1]] + ((cf[c[1]]-23)?-.5:0);
   const ter = cf[c[2]] + ((cf[c[2]]-23)?-1.5:0);
   const inf = cf[c[3]];
-  return dom + aux + ter - inf;
+  return +(''+(dom + aux + ter - inf)).slice(0,4);
 };
 
 const scores = (() => {
@@ -109,7 +110,9 @@ for (let i = 0; i < 16; i++) {
     .innerText = scores[i][1];
 } 
 ```
+
 ## compiled version:
+
 ```javascript
-(()=>{e={Ne:23,Ni:1,Se:45,Si:23,Te:23,Ti:40,Fe:34,Fi:23},i={INFJ:['Ni','Fe','Ti','Se'],INFP:['Fi','Ne','Si','Te'],INTJ:['Ni','Te','Fi','Se'],INTP:['Ti','Ne','Si','Fe'],ENFJ:['Fe','Ni','Se','Ti'],ENFP:['Ne','Fi','Te','Si'],ENTJ:['Te','Ni','Fe','Si'],ENTP:['Ne','Ti','Fe','Si'],ISFJ:['Si','Fe','Ti','Ne'],ISFP:['Fi','Se','Ni','Te'],ISTJ:['Si','Te','Fi','Ne'],ISTP:['Ti','Se','Ni','Fe'],ESFJ:['Fe','Si','Ne','Ti'],ESFP:['Se','Fi','Te','Ni'],ESTP:['Se','Ti','Fe','Ni'],ESTJ:['Te','Si','Ne','Fi']},T=(()=>{T=[];for(l in i)T.push([l,(S=i[l],e[S[0]]+(e[S[0]]-23?.5:0)+(e[S[1]]+(e[S[1]]-23?-.5:0))+(e[S[2]]+(e[S[2]]-23?-1.5:0))-e[S[3]])]);return T.sort(((e,i)=>e[1]-i[1])),T})(),S=document.querySelectorAll('table');for(i=0;i<8;i++)S[18].children[0].children[i].children[1].firstChild.innerText=Object.values(e)[i];for(e=0;e<3;e++)S[19].children[0].children[e].lastChild.firstChild.innerText=T[15][0];for(e=0;e<16;e++)S[21].children[0].children[e].firstChild.innerText=T[e][0],S[21].children[0].children[e].lastChild.innerText=T[e][1]})();void(0)
+(()=>{e={Ne:23,Ni:45,Se:1,Si:23,Te:23,Ti:30,Fe:40,Fi:23},i={INFJ:["Ni","Fe","Ti","Se"],INFP:["Fi","Ne","Si","Te"],INTJ:["Ni","Te","Fi","Se"],INTP:["Ti","Ne","Si","Fe"],ENFJ:["Fe","Ni","Se","Ti"],ENFP:["Ne","Fi","Te","Si"],ENTJ:["Te","Ni","Fe","Si"],ENTP:["Ne","Ti","Fe","Si"],ISFJ:["Si","Fe","Ti","Ne"],ISFP:["Fi","Se","Ni","Te"],ISTJ:["Si","Te","Fi","Ne"],ISTP:["Ti","Se","Ni","Fe"],ESFJ:["Fe","Si","Ne","Ti"],ESFP:["Se","Fi","Te","Ni"],ESTP:["Se","Ti","Fe","Ni"],ESTJ:["Te","Si","Ne","Fi"]},T=(()=>{T=[];for(S in i)T.push([S,(l=i[S],+(""+(e[l[0]]+(e[l[0]]-23?.5:0)+(e[l[1]]+(e[l[1]]-23?-.5:0))+(e[l[2]]+(e[l[2]]-23?-1.5:0))-e[l[3]])).slice(0,4))]);var l;return T.sort(((e,i)=>e[1]-i[1])),T})(),l=document.querySelectorAll("table");for(i=0;i<8;i++)l[18].children[0].children[i].children[1].firstChild.innerText=Object.values(e)[i];for(e=0;e<3;e++)l[19].children[0].children[e].lastChild.firstChild.innerText=T[15][0];for(e=0;e<16;e++)l[21].children[0].children[e].firstChild.innerText=T[e][0],l[21].children[0].children[e].lastChild.innerText=T[e][1]})();void(0)
 ```

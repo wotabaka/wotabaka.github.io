@@ -33,5 +33,7 @@ document.querySelector('.submitit').click();
 * Compiled version:
 
 ```javascript
-(()=>{const e=document.querySelectorAll("input#answer");for(let t=0;t<1530;t+=5)e[t+Math.round(10*Math.random())%5].checked=!0;document.querySelector(".submitit").click()})();void(0)
+(()=>{e=document.querySelectorAll("input#answer");for(t=0;t<1530;t+=5)e[t+Math.round(10*Math.random())%5].checked=!0;document.querySelector(".submitit").click()})();void(0)
 ```
+
+execute above code in address bar with prefix `javascript:`.
