@@ -4,10 +4,8 @@
 
 DOM-based scraper:
 
-```javascript
-
+```
 for(qq=[],q=document.querySelectorAll("input#answer"),i=0;i<480;i+=5)e=q[i].parentNode.parentNode.previousElementSibling.innerText.split(" "),e.shift(),qq.push([+q[i].name.replace("q",""),e.join(" ").replace('"','\\"')]);for(i of(body=document.querySelector("body"),body.innerHTML="[<br/>",qq))body.innerHTML+=`  { "id": ${i[0]}, "text": "${i[1]}", "function": "Xx" },<br/>`;body.innerHTML+="]"}
-
 ```
 
 > [data mentahan](sakifunc_id.json)
