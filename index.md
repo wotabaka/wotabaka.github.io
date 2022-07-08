@@ -5,7 +5,7 @@
 
 
 ### Writing:
-  - eeeeeee
+  - [idk](idontknowwhatthisis.md)
 
 
 ### Lab:
