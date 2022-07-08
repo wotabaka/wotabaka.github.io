@@ -2,137 +2,326 @@
   "Ne": {
     "count": 12,
     "ids": [
-      [11, "Kamu punya kecenderungan untuk berbicara keluar dari topik dalam sebuah percakapan."],
-      [13, "Mudah bagimu untuk memikirkan sesuatu yang abstrak dan acak untuk dikatakan."],
-      [16, "Saking banyaknya kemungkinan yang kamu temukan, susah bagimu untuk berkomitmen pada satu keputusan."],
-      [33, "Kamu sangat bersemangat atas hal baru. Namun, ketika hal itu tidak lagi terasa baru, kamu akan menelantarkannya."],
+      [
+        11,
+        "Kamu punya kecenderungan untuk berbicara keluar dari topik dalam sebuah percakapan."
+      ],
+      [
+        13,
+        "Mudah bagimu untuk memikirkan sesuatu yang abstrak dan acak untuk dikatakan."
+      ],
+      [
+        16,
+        "Saking banyaknya kemungkinan yang kamu temukan, susah bagimu untuk berkomitmen pada satu keputusan."
+      ],
+      [
+        33,
+        "Kamu sangat bersemangat atas hal baru. Namun, ketika hal itu tidak lagi terasa baru, kamu akan menelantarkannya."
+      ],
       [34, "Kamu mempertanyakan segala hal."],
-      [44, "Kamu menyukai diskusi, kamu menawarkan banyak ide dalam situasi yang ada."],
-      [49, "Kamu memulai banyak rencana, namun hanya beberapa yang akhirnya bisa kamu selesaikan."],
-      [52, "Kamu mungkin dideskripsikan sebagai orang yang 'berkepala kosong'."],
-      [66, "Dalam mengungkapkan ide-ide baru, kamu sering menggunakan analogi atau pengibaratan."],
+      [
+        44,
+        "Kamu menyukai diskusi, kamu menawarkan banyak ide dalam situasi yang ada."
+      ],
+      [
+        49,
+        "Kamu memulai banyak rencana, namun hanya beberapa yang akhirnya bisa kamu selesaikan."
+      ],
+      [
+        52,
+        "Kamu mungkin dideskripsikan sebagai orang yang 'berkepala kosong'."
+      ],
+      [
+        66,
+        "Dalam mengungkapkan ide-ide baru, kamu sering menggunakan analogi atau pengibaratan."
+      ],
       [81, "Susah bagimu untuk berkonsentrasi pada satu hal saja."],
       [88, "Kamu tertarik dengan hal-hal yang baru, asing, dan orisinal."],
-      [91, "Kamu melihat dunia sebagai kumpulan kemungkinan yang menunggu untuk dieksplor."]
+      [
+        91,
+        "Kamu melihat dunia sebagai kumpulan kemungkinan yang menunggu untuk dieksplor."
+      ]
     ]
   },
   "Ni": {
     "count": 13,
     "ids": [
-      [7, "Kamu seringkali kesusahan untuk mengungkapkan suatu hal dalam kata-kata walaupun kamu memahami hal tersebut."],
-      [18, "Kamu mengimajinasikan hal-hal yang tidak berhubungan langsung dengan dunia nyata."],
-      [20, "Kamu tertarik dengan hal-hal abstrak dan sering terobsesi dengan makna tersembunyi."],
-      [22, "Kamu sering mengambil kesimpulan yang datang entah dari mana; kamu cenderung 'menyadari' jawaban."],
-      [30, "Kamu menaruh kepercayaan yang banyak terhadap alam bawah sadar dan hal-hal misterius."],
+      [
+        7,
+        "Kamu seringkali kesusahan untuk mengungkapkan suatu hal dalam kata-kata walaupun kamu memahami hal tersebut."
+      ],
+      [
+        18,
+        "Kamu mengimajinasikan hal-hal yang tidak berhubungan langsung dengan dunia nyata."
+      ],
+      [
+        20,
+        "Kamu tertarik dengan hal-hal abstrak dan sering terobsesi dengan makna tersembunyi."
+      ],
+      [
+        22,
+        "Kamu sering mengambil kesimpulan yang datang entah dari mana; kamu cenderung 'menyadari' jawaban."
+      ],
+      [
+        30,
+        "Kamu menaruh kepercayaan yang banyak terhadap alam bawah sadar dan hal-hal misterius."
+      ],
       [51, "Kamu merasa bahwa pendapatmu sering disalahpahami orang lain."],
-      [59, "Kamu banyak mengunakan kiasan puitis untuk menyampaikan ide-ide baru."],
-      [64, "Kamu seringkali memiliki firasat tentang sesuatu di masa depan yang pada akhirnya terbukti benar."],
+      [
+        59,
+        "Kamu banyak mengunakan kiasan puitis untuk menyampaikan ide-ide baru."
+      ],
+      [
+        64,
+        "Kamu seringkali memiliki firasat tentang sesuatu di masa depan yang pada akhirnya terbukti benar."
+      ],
       [65, "Kamu melihat gambaran besar alih-alih lautan detail."],
-      [75, "Kamu punya kesulitan berkomunikasi dengan orang-orang yang memiliki pandangan berbeda."],
-      [79, "Kamu punya kesulitan untuk menyampaikan ide-idemu kepada orang lain."],
+      [
+        75,
+        "Kamu punya kesulitan berkomunikasi dengan orang-orang yang memiliki pandangan berbeda."
+      ],
+      [
+        79,
+        "Kamu punya kesulitan untuk menyampaikan ide-idemu kepada orang lain."
+      ],
       [80, "Kamu tertarik pada filosofi dan hal-hal mistis."],
-      [92, "Kamu lebih memilih untuk hidup di dunia mimpimu dibanding dunia nyata."]
+      [
+        92,
+        "Kamu lebih memilih untuk hidup di dunia mimpimu dibanding dunia nyata."
+      ]
     ]
   },
   "Se": {
     "count": 12,
     "ids": [
-      [4, "Kamu menyukai diskusi, kamu menawarkan banyak ide dalam situasi yang ada."] ,
+      [
+        4,
+        "Kamu menyukai diskusi, kamu menawarkan banyak ide dalam situasi yang ada."
+      ],
       [12, "Kamu hidup di 'tempat ini dan saat ini'."],
-      [28, "Biasanya, kamu adalah yang pertama bereaksi terhadap suatu pertanyaan."],
+      [
+        28,
+        "Biasanya, kamu adalah yang pertama bereaksi terhadap suatu pertanyaan."
+      ],
       [42, "Kamu menyukai pengalaman yang baru dan mengasyikkan."],
       [45, "Kamu hidup di masa kini, bukan masa lalu atau masa depan."],
       [60, "Kamu adalah seorang pengambil resiko."],
-      [61, "Kamu bisa memanipulasi percakapan dengan menganalisa bahasa tubuh orang lain."],
-      [68, "Kamu mungkin terlihat bar-bar dan menyakiti orang-orang disekitarmu tanpa sadar."],
-      [72, "Kamu punya indera navigasi yang bagus dan mudah tahu arah walaupun di tempat baru."],
-      [84, "Kamu percaya bahwa keberadaanmu dalam sebuah ruangan pasti disadari orang lain."],
-      [85, "Kamu menerima sebuah informasi dari dunia luar tanpa pikir panjang."],
-      [96, "Kamu sadar akan hal-hal di sekitarmu dan tidak mungkin melewatkan sesuatu yang terjadi di depan matamu."]
+      [
+        61,
+        "Kamu bisa memanipulasi percakapan dengan menganalisa bahasa tubuh orang lain."
+      ],
+      [
+        68,
+        "Kamu mungkin terlihat bar-bar dan menyakiti orang-orang disekitarmu tanpa sadar."
+      ],
+      [
+        72,
+        "Kamu punya indera navigasi yang bagus dan mudah tahu arah walaupun di tempat baru."
+      ],
+      [
+        84,
+        "Kamu percaya bahwa keberadaanmu dalam sebuah ruangan pasti disadari orang lain."
+      ],
+      [
+        85,
+        "Kamu menerima sebuah informasi dari dunia luar tanpa pikir panjang."
+      ],
+      [
+        96,
+        "Kamu sadar akan hal-hal di sekitarmu dan tidak mungkin melewatkan sesuatu yang terjadi di depan matamu."
+      ]
     ]
   },
   "Si": {
     "count": 12,
     "ids": [
       [2, "Kamu sangat memperhitungkan detil dan pengalaman yang lampau."],
-      [3, "Menurutmu, mendapat kebenaran atau fakta lebih penting dari memenangkan sebuah perdebatan."],
+      [
+        3,
+        "Menurutmu, mendapat kebenaran atau fakta lebih penting dari memenangkan sebuah perdebatan."
+      ],
       [5, "Kamu tidak menyukai perubahan."],
-      [10, "Kamu hanya mengandalkan pengalaman yang lampau untuk memandumu melewati masa kini."],
-      [14, "Kamu menghubungkan pengalaman masa kini dengan pengalaman masa lalu"],
+      [
+        10,
+        "Kamu hanya mengandalkan pengalaman yang lampau untuk memandumu melewati masa kini."
+      ],
+      [
+        14,
+        "Kamu menghubungkan pengalaman masa kini dengan pengalaman masa lalu"
+      ],
       [15, "Kamu tidak menyukai perubahan."],
       [17, "Kamu sangat menghargai tradisi dan kewajiban."],
-      [26, "Kamu tidak tertarik dengan ketidakpastian atau hal-hal yang belum diketahui."],
+      [
+        26,
+        "Kamu tidak tertarik dengan ketidakpastian atau hal-hal yang belum diketahui."
+      ],
       [43, "Kamu mengikuti sebuah rutinitas yang konsisten."],
       [57, "Mau tidak mau, kamu akan selalu fokus kepada detil-detil kecil."],
-      [76, "Menurutmu, kamu adalah orang yang praktis dan realistis, bebas dari imajinasi."],
+      [
+        76,
+        "Menurutmu, kamu adalah orang yang praktis dan realistis, bebas dari imajinasi."
+      ],
       [93, "Kamu dideskripsikan sebagai 'tidak bisa berpindah tujuan'."]
     ]
   },
   "Te": {
     "count": 12,
     "ids": [
-      [6, "Dalam mengungkapkan ide-ide baru, kamu sering menggunakan analogi atau pengibaratan."],
-      [9, "Kamu banyak mengunakan kiasan puitis untuk menyampaikan ide-ide baru."],
+      [
+        6,
+        "Dalam mengungkapkan ide-ide baru, kamu sering menggunakan analogi atau pengibaratan."
+      ],
+      [
+        9,
+        "Kamu banyak mengunakan kiasan puitis untuk menyampaikan ide-ide baru."
+      ],
       [25, "Kamu mempercayai fakta dan data lebih dari apapun."],
-      [27, "Kamu mengandalkan sumber-sumber eksternal untuk mendukung argumenmu."],
+      [
+        27,
+        "Kamu mengandalkan sumber-sumber eksternal untuk mendukung argumenmu."
+      ],
       [35, "Kamu sangat objektif dan 'berkata apa adanya'."],
-      [50, "Kamu suka mengorganisir atau mengatur hal-hal untuk bersenang-senang."],
+      [
+        50,
+        "Kamu suka mengorganisir atau mengatur hal-hal untuk bersenang-senang."
+      ],
       [54, "Kamu selalu menetapkan target pribadi."],
-      [58, "Ketika memiliki waktu luang, kamu merasa canggung dan tanpa tujuan."],
-      [67, "Menurutmu, kamu adalah orang yang terorganisir dan mampu mengontrol sesuatu sebelum terjadi kekacauan."],
-      [74, "Kamu mengambil jalan pintas yang tidak sesuai dengan kebiasaan yang ada demi efisiensi dan produktivitas."],
+      [
+        58,
+        "Ketika memiliki waktu luang, kamu merasa canggung dan tanpa tujuan."
+      ],
+      [
+        67,
+        "Menurutmu, kamu adalah orang yang terorganisir dan mampu mengontrol sesuatu sebelum terjadi kekacauan."
+      ],
+      [
+        74,
+        "Kamu mengambil jalan pintas yang tidak sesuai dengan kebiasaan yang ada demi efisiensi dan produktivitas."
+      ],
       [87, "Kamu akan melakukan apapun demi memenangkan perdebatan."],
-      [89, "Kamu biasanya menyelesaikan masalah bersama orang lain dan melibatkan mereka dalam pengambilan keputusan."],
+      [
+        89,
+        "Kamu biasanya menyelesaikan masalah bersama orang lain dan melibatkan mereka dalam pengambilan keputusan."
+      ]
     ]
   },
   "Ti": {
     "count": 11,
     "ids": [
-      [21, "Untuk mendeskripsikan dunia di sekelilingmu, kamu membuat kerangka kerja, teori dan sistem yang logis secara internal."],
-      [23, "Menurutmu, mendapat kebenaran atau fakta lebih penting dari memenangkan sebuah perdebatan."],
-      [39, "Kamu sulitl beradaptasi dengan data-data baru karena tidak sesuai dengan pemahaman pribadimu atas sebuah ide."],
-      [40, "Kamu menyelesaikan masalahmu sendiri dan mengasingkan diri saat mencari kesimpulan."],
-      [46, "Caramu memahami sebuah konsep adalah mengidentifikasinya secara logis dan menghubungkan pola antara konsep-konsep yang ada."],
-      [48, "Kamu pemecah masalah yang baik dan memiliki kemampuan untuk menganalisis secara mendalam."],
-      [53, "Menurutmu, suatu solusi lebih baik dibahas secara menyeluruh sebelum dieksekusi, meskipun waktu yang jadi taruhannya."],
-      [56, "Kamu memodifikasi sistem logika internalmu untuk memasukkan data baru, dan akan mengevaluasi ulang sistem itu jika datanya tidak cocok."],
+      [
+        21,
+        "Untuk mendeskripsikan dunia di sekelilingmu, kamu membuat kerangka kerja, teori dan sistem yang logis secara internal."
+      ],
+      [
+        23,
+        "Menurutmu, mendapat kebenaran atau fakta lebih penting dari memenangkan sebuah perdebatan."
+      ],
+      [
+        39,
+        "Kamu sulitl beradaptasi dengan data-data baru karena tidak sesuai dengan pemahaman pribadimu atas sebuah ide."
+      ],
+      [
+        40,
+        "Kamu menyelesaikan masalahmu sendiri dan mengasingkan diri saat mencari kesimpulan."
+      ],
+      [
+        46,
+        "Caramu memahami sebuah konsep adalah mengidentifikasinya secara logis dan menghubungkan pola antara konsep-konsep yang ada."
+      ],
+      [
+        48,
+        "Kamu pemecah masalah yang baik dan memiliki kemampuan untuk menganalisis secara mendalam."
+      ],
+      [
+        53,
+        "Menurutmu, suatu solusi lebih baik dibahas secara menyeluruh sebelum dieksekusi, meskipun waktu yang jadi taruhannya."
+      ],
+      [
+        56,
+        "Kamu memodifikasi sistem logika internalmu untuk memasukkan data baru, dan akan mengevaluasi ulang sistem itu jika datanya tidak cocok."
+      ],
       [82, "Kamu menghargai kebenaran dan logika lebih dari apapun."],
       [83, "Kamu telah menjadi logis secara konsisten seumur hidupmu."],
-      [95, "Kamu mengeksplor hal-hal secara mendalam hanya karena kamu ingin tahu lebih dalam."]
+      [
+        95,
+        "Kamu mengeksplor hal-hal secara mendalam hanya karena kamu ingin tahu lebih dalam."
+      ]
     ]
   },
   "Fe": {
     "count": 12,
     "ids": [
-      [8, "Kamu mungkin terlihat bar-bar dan menyakiti orang-orang disekitarmu tanpa sadar."],
+      [
+        8,
+        "Kamu mungkin terlihat bar-bar dan menyakiti orang-orang disekitarmu tanpa sadar."
+      ],
       [24, "Kamu mungkin terlihat 'palsu' atau 'manipulatif' bagi orang lain."],
-      [31, "Kamu sangat menghargai harmoni dalam kehidupan sosial dan sering berusaha keras untuk mempertahankannya."],
-      [32, "Kamu mencoba membantu orang lain sampai kamu mulai lupa memeperhatikan kebutuhan pribadimu."],
+      [
+        31,
+        "Kamu sangat menghargai harmoni dalam kehidupan sosial dan sering berusaha keras untuk mempertahankannya."
+      ],
+      [
+        32,
+        "Kamu mencoba membantu orang lain sampai kamu mulai lupa memeperhatikan kebutuhan pribadimu."
+      ],
       [36, "Kamu mudah bersimpati kepada kesulitan yang dihadapi orang lain."],
-      [37, "Kemampuanmu dalam menyadari kebutuhan orang lain tidak bisa diragukan."],
+      [
+        37,
+        "Kemampuanmu dalam menyadari kebutuhan orang lain tidak bisa diragukan."
+      ],
       [47, "Kamu berkarisma dan biasanya dilihat sebagai orang yang menawan."],
-      [62, "Kamu mungkin terlihat 'ikut campur' atau 'suka mengatur' di mata orang lain."],
+      [
+        62,
+        "Kamu mungkin terlihat 'ikut campur' atau 'suka mengatur' di mata orang lain."
+      ],
       [70, "Kamu selalu berusaha untuk berkomunikasi secara bijaksana."],
-      [77, "Kamu lebih memilih untuk berbohong demi kebaikan daripada mengecewakan seseorang."],
-      [86, "Kamu menghargai kesetaraan hak dan berusaha keras untuk membuat semua orang terlibat dalam sebuah kelompok."],
-      [90, "Kamu sedih jika perhatianmu untuk orang lain tidak dihargai."],
+      [
+        77,
+        "Kamu lebih memilih untuk berbohong demi kebaikan daripada mengecewakan seseorang."
+      ],
+      [
+        86,
+        "Kamu menghargai kesetaraan hak dan berusaha keras untuk membuat semua orang terlibat dalam sebuah kelompok."
+      ],
+      [90, "Kamu sedih jika perhatianmu untuk orang lain tidak dihargai."]
     ]
   },
   "Fi": {
     "count": 12,
     "ids": [
-      [1, "Kamu punya kecenderungan untuk berbicara keluar dari topik dalam sebuah percakapan."],
+      [
+        1,
+        "Kamu punya kecenderungan untuk berbicara keluar dari topik dalam sebuah percakapan."
+      ],
       [19, "Kamu mungkin terlihat egois."],
-      [29, "Kamu menjadi keras kepala saat menghadapi pertentangan atas apa yang kamu yakini secara pribadi."],
+      [
+        29,
+        "Kamu menjadi keras kepala saat menghadapi pertentangan atas apa yang kamu yakini secara pribadi."
+      ],
       [38, "Kamu mengekspresikan dirimu dengan jujur dan otentik."],
-      [41, "Kamu cenderung baru mengekspresikan simpati setelah berempati terlebih dahulu."],
-      [55, "Kamu memiliki standar moral pribadi yang tidak akan terpengaruhi oleh faktor-faktor eksternal."],
+      [
+        41,
+        "Kamu cenderung baru mengekspresikan simpati setelah berempati terlebih dahulu."
+      ],
+      [
+        55,
+        "Kamu memiliki standar moral pribadi yang tidak akan terpengaruhi oleh faktor-faktor eksternal."
+      ],
       [63, "Kamu jujur pada dirimu sendiri."],
       [69, "Kamu mungkin terlihat cengeng atau penuh depresi."],
       [71, "Orang-orang palsu membuatmu sebal."],
-      [73, "Kamu punya kecenderungan untuk menentukan 'baik' dan 'buruk' dari suatu hal."],
-      [78, "Kamu merasa seakan kamu adalah satu dari segelintir orang baik yang tersisa di dunia ini."],
-      [94, "Kamu ragu untuk mengasosiasikan dirimu pada suatu peran sosial secara pasti."]
+      [
+        73,
+        "Kamu punya kecenderungan untuk menentukan 'baik' dan 'buruk' dari suatu hal."
+      ],
+      [
+        78,
+        "Kamu merasa seakan kamu adalah satu dari segelintir orang baik yang tersisa di dunia ini."
+      ],
+      [
+        94,
+        "Kamu ragu untuk mengasosiasikan dirimu pada suatu peran sosial secara pasti."
+      ]
     ]
   }
 }

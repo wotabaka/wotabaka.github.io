@@ -2,137 +2,521 @@
   "Ne": {
     "count": 12,
     "question": [
-      [11, "You have a tendency to go off-topic in conversation."],
-      [13, "You can easily think of something random to say."],
-      [16, "You see so many possibilities that you have trouble committing to a single one."],
-      [33, "You take on subjects with a burning interest only to drop them once they no longer feel new to you."],
-      [34, "You would question anything."],
-      [44, "You are a brainstormer: you offer a multitude of different ideas in a given situation."],
-      [49, "You start many different projects, but you finish few."],
-      [52, "You may be described as ditzy or scatterbrained."],
-      [66, "You often use analogies and similes to communicate new ideas."],
-      [81, "You find it difficult to concentrate on a single subject."],
-      [88, "You are drawn to the new, novel, and original."],
-      [91, "You see the world as a bundle of possibilities waiting to be explored."]
+      {
+        "id": 11,
+        "text": "You have a tendency to go off-topic in conversation.",
+        "score": { "Ne": 1 }
+      },
+      {
+        "id": 13,
+        "text": "You can easily think of something random to say.",
+        "score": { "Ne": 1 }
+      },
+      {
+        "id": 16,
+        "text": "You see so many possibilities that you have trouble committing to a single one.",
+        "score": { "Ne": 1 }
+      },
+      {
+        "id": 33,
+        "text": "You take on subjects with a burning interest only to drop them once they no longer feel new to you.",
+        "score": { "Ne": 1 }
+      },
+      {
+        "id": 34,
+        "text": "You would question anything.",
+        "score": { "Ne": 1 }
+      },
+      {
+        "id": 44,
+        "text": "You are a brainstormer: you offer a multitude of different ideas in a given situation.",
+        "score": { "Ne": 1 }
+      },
+      {
+        "id": 49,
+        "text": "You start many different projects, but you finish few.",
+        "score": { "Ne": 1 }
+      },
+      {
+        "id": 52,
+        "text": "You may be described as ditzy or scatterbrained.",
+        "score": { "Ne": 1 }
+      },
+      {
+        "id": 66,
+        "text": "You often use analogies and similes to communicate new ideas.",
+        "score": { "Ne": 1 }
+      },
+      {
+        "id": 81,
+        "text": "You find it difficult to concentrate on a single subject.",
+        "score": { "Ne": 1 }
+      },
+      {
+        "id": 88,
+        "text": "You are drawn to the new, novel, and original.",
+        "score": { "Ne": 1 }
+      },
+      {
+        "id": 91,
+        "text": "You see the world as a bundle of possibilities waiting to be explored.",
+        "score": { "Ne": 1 }
+      }
     ]
   },
   "Ni": {
     "count": 13,
     "question": [
-      [7, "You \"just know\" things without being able to consciously put them into words."],
-      [18, "You imagine things that aren't directly connected to the real world."],
-      [20, "You are drawn toward the abstract and often obsess over meanings."],
-      [22, "You often arrive at conclusions that seem to come out of nowhere; you relate to \"realizing\" answers."],
-      [30, "You place a great amount of trust in the mysterious and unconscious world."],
-      [51, "You feel as though your insights often go misunderstood."],
-      [59, "You often use metaphors to communicate new ideas."],
-      [64, "You frequently have hunches or insights about the future that turn out to be correct."],
-      [65, "You see the big picture in a sea of details."],
-      [75, "You have trouble communicating with those who do not think like you."],
-      [79, "You have trouble communicating your ideas with people."],
-      [80, "You are attracted to symbolism, mysticism and the unknown."],
-      [92, "You prefer living in your dreams to living in the real world."]
+      {
+        "id": 7,
+        "text": "You \"just know\" things without being able to consciously put them into words.",
+        "score": { "Ni": 1 }
+      },
+      {
+        "id": 18,
+        "text": "You imagine things that aren't directly connected to the real world.",
+        "score": { "Ni": 1 }
+      },
+      {
+        "id": 20,
+        "text": "You are drawn toward the abstract and often obsess over meanings.",
+        "score": { "Ni": 1 }
+      },
+      {
+        "id": 22,
+        "text": "You often arrive at conclusions that seem to come out of nowhere; you relate to \"realizing\" answers.",
+        "score": { "Ni": 1 }
+      },
+      {
+        "id": 30,
+        "text": "You place a great amount of trust in the mysterious and unconscious world.",
+        "score": { "Ni": 1 }
+      },
+      {
+        "id": 51,
+        "text": "You feel as though your insights often go misunderstood.",
+        "score": { "Ni": 1 }
+      },
+      {
+        "id": 59,
+        "text": "You often use metaphors to communicate new ideas.",
+        "score": { "Ni": 1 }
+      },
+      {
+        "id": 64,
+        "text": "You frequently have hunches or insights about the future that turn out to be correct.",
+        "score": { "Ni": 1 }
+      },
+      {
+        "id": 65,
+        "text": "You see the big picture in a sea of details.",
+        "score": { "Ni": 1 }
+      },
+      {
+        "id": 75,
+        "text": "You have trouble communicating with those who do not think like you.",
+        "score": { "Ni": 1 }
+      },
+      {
+        "id": 79,
+        "text": "You have trouble communicating your ideas with people.",
+        "score": { "Ni": 1 }
+      },
+      {
+        "id": 80,
+        "text": "You are attracted to symbolism, mysticism and the unknown.",
+        "score": { "Ni": 1 }
+      },
+      {
+        "id": 92,
+        "text": "You prefer living in your dreams to living in the real world.",
+        "score": { "Ni": 1 }
+      }
     ]
   },
   "Se": {
     "count": 12,
     "question": [
-      [4, "You have an eye for aesthetics and \"enjoy the finer things in life.\""] ,
-      [12, "You live in the \"here and now.\""],
-      [28, "You are often the first to react to a question."],
-      [42, "You thrive on new and exciting experiences."],
-      [45, "You live in the present, not the past or the future."],
-      [60, "You are a risk-taker."],
-      [61, "You are able to manipulate conversations by reading others' body language."],
-      [68, "You may be seen as reckless and unknowingly hurt those around you."],
-      [72, "You have an excellent sense of direction and instantly know your way around a new place."],
-      [84, "You believe your presence is greatly felt in a room."],
-      [85, "You absorb information from the outside world without additional processing."],
-      [96, "You are aware of your surroundings and aren't likely to miss something right in front of you."]
+      {
+        "id": 4,
+        "text": "You have an eye for aesthetics and \"enjoy the finer things in life.\"",
+        "score": { "Se": 1 }
+      },
+      {
+        "id": 12,
+        "text": "You live in the \"here and now.\"",
+        "score": { "Se": 1 }
+      },
+      {
+        "id": 28,
+        "text": "You are often the first to react to a question.",
+        "score": { "Se": 1 }
+      },
+      {
+        "id": 42,
+        "text": "You thrive on new and exciting experiences.",
+        "score": { "Se": 1 }
+      },
+      {
+        "id": 45,
+        "text": "You live in the present, not the past or the future.",
+        "score": { "Se": 1 }
+      },
+      {
+        "id": 60,
+        "text": "You are a risk-taker.",
+        "score": { "Se": 1 }
+      },
+      {
+        "id": 61,
+        "text": "You are able to manipulate conversations by reading others' body language.",
+        "score": { "Se": 1 }
+      },
+      {
+        "id": 68,
+        "text": "You may be seen as reckless and unknowingly hurt those around you.",
+        "score": { "Se": 1 }
+      },
+      {
+        "id": 72,
+        "text": "You have an excellent sense of direction and instantly know your way around a new place.",
+        "score": { "Se": 1 }
+      },
+      {
+        "id": 84,
+        "text": "You believe your presence is greatly felt in a room.",
+        "score": { "Se": 1 }
+      },
+      {
+        "id": 85,
+        "text": "You absorb information from the outside world without additional processing.",
+        "score": { "Se": 1 }
+      },
+      {
+        "id": 96,
+        "text": "You are aware of your surroundings and aren't likely to miss something right in front of you.",
+        "score": { "Se": 1 }
+      }
     ]
   },
   "Si": {
     "count": 12,
     "question": [
-      [2, "You place a lot of value on details and past experiences."],
-      [3, "You are skilled at recognizing whether the details in front of you match what you are used to."],
-      [5, "You easily recognize internal bodily sensations and act to suit your body's needs."],
-      [10, "You rely only on past experiences to guide yourself through the present."],
-      [14, "You relate present experiences back to past experiences."],
-      [15, "You dislike change."],
-      [17, "You greatly value tradition and duty."],
-      [26, "You are unnerved by uncertainty and the unknown."],
-      [43, "You follow a consistent routine."],
-      [57, "You cannot help but get hung up on small details."],
-      [76, "You consider yourself a practical and realistic person, free from imagination."],
-      [93, "You are described as \"stuck in your ways.\""]
+      {
+        "id": 2,
+        "text": "You place a lot of value on details and past experiences.",
+        "score": { "Si": 1 }
+      },
+      {
+        "id": 3,
+        "text": "You are skilled at recognizing whether the details in front of you match what you are used to.",
+        "score": { "Si": 1 }
+      },
+      {
+        "id": 5,
+        "text": "You easily recognize internal bodily sensations and act to suit your body's needs.",
+        "score": { "Si": 1 }
+      },
+      {
+        "id": 10,
+        "text": "You rely only on past experiences to guide yourself through the present.",
+        "score": { "Si": 1 }
+      },
+      {
+        "id": 14,
+        "text": "You relate present experiences back to past experiences.",
+        "score": { "Si": 1 }
+      },
+      {
+        "id": 15,
+        "text": "You dislike change.",
+        "score": { "Si": 1 }
+      },
+      {
+        "id": 17,
+        "text": "You greatly value tradition and duty.",
+        "score": { "Si": 1 }
+      },
+      {
+        "id": 26,
+        "text": "You are unnerved by uncertainty and the unknown.",
+        "score": { "Si": 1 }
+      },
+      {
+        "id": 43,
+        "text": "You follow a consistent routine.",
+        "score": { "Si": 1 }
+      },
+      {
+        "id": 57,
+        "text": "You cannot help but get hung up on small details.",
+        "score": { "Si": 1 }
+      },
+      {
+        "id": 76,
+        "text": "You consider yourself a practical and realistic person, free from imagination.",
+        "score": { "Si": 1 }
+      },
+      {
+        "id": 93,
+        "text": "You are described as \"stuck in your ways.\"",
+        "score": { "Si": 1 }
+      }
     ]
   },
   "Te": {
     "count": 12,
     "question": [
-      [6, "You find yourself agreeing with those who claim that the ends justify the means."],
-      [9, "You are blunt and straight-to-the-point in communication."],
-      [25, "You trust hard facts and data more than anything else."],
-      [27, "You rely on external sources to support your argument."],
-      [35, "You are extremely objective and \"tell it as it is.\""],
-      [50, "You like to organize things for pleasure."],
-      [54, "You constantly set yourself on goals and objectives."],
-      [58, "You often feel awkward and aimless during leisure time."],
-      [67, "You consider yourself an organized person and take control of situations before they get out of hand."],
-      [74, "You streamline existing systems for the sake of efficiency and productivity."],
-      [87, "You would do whatever it takes to win a debate."],
-      [89, "You generally work through problems with others and involve yourself with other people to arrive at a conclusion."]
+      {
+        "id": 6,
+        "text": "You find yourself agreeing with those who claim that the ends justify the means.",
+        "score": { "Te": 1 }
+      },
+      {
+        "id": 9,
+        "text": "You are blunt and straight-to-the-point in communication.",
+        "score": { "Te": 1 }
+      },
+      {
+        "id": 25,
+        "text": "You trust hard facts and data more than anything else.",
+        "score": { "Te": 1 }
+      },
+      {
+        "id": 27,
+        "text": "You rely on external sources to support your argument.",
+        "score": { "Te": 1 }
+      },
+      {
+        "id": 35,
+        "text": "You are extremely objective and \"tell it as it is.\"",
+        "score": { "Te": 1 }
+      },
+      {
+        "id": 50,
+        "text": "You like to organize things for pleasure.",
+        "score": { "Te": 1 }
+      },
+      {
+        "id": 54,
+        "text": "You constantly set yourself on goals and objectives.",
+        "score": { "Te": 1 }
+      },
+      {
+        "id": 58,
+        "text": "You often feel awkward and aimless during leisure time.",
+        "score": { "Te": 1 }
+      },
+      {
+        "id": 67,
+        "text": "You consider yourself an organized person and take control of situations before they get out of hand.",
+        "score": { "Te": 1 }
+      },
+      {
+        "id": 74,
+        "text": "You streamline existing systems for the sake of efficiency and productivity.",
+        "score": { "Te": 1 }
+      },
+      {
+        "id": 87,
+        "text": "You would do whatever it takes to win a debate.",
+        "score": { "Te": 1 }
+      },
+      {
+        "id": 89,
+        "text": "You generally work through problems with others and involve yourself with other people to arrive at a conclusion.",
+        "score": { "Te": 1 }
+      }
     ]
   },
   "Ti": {
     "count": 11,
     "question": [
-      [21, "You come up with internal logical frameworks, theories, and systems to describe the world around you."],
-      [23, "You believe that arriving at a truth is more important than winning an argument."],
-      [39, "You sometimes fail to adapt to new data because it is not consistent with your personal understanding of an idea."],
-      [40, "You work through problems by yourself and detach yourself from other people to arrive at a conclusion."],
-      [46, "You understand a concept by logically recognizing and drawing patterns between different, already known concepts."],
-      [48, "You are an excellent problem solver and have an incredible ability to analyze things in depth."],
-      [53, "Generally, you would prefer a solution be thorough before putting it into action (at the cost of time)."],
-      [56, "You modify internal logical frameworks to account for new data, and you sometimes find yourself re-evaluating them when new data is incompatible with it."],
-      [82, "You value truth and logic more than anything else."],
-      [83, "You have been consistently logical throughout your life."],
-      [95, "You explore things in depth for purely for the sake of exploring them in depth."]
+      {
+        "id": 21,
+        "text": "You come up with internal logical frameworks, theories, and systems to describe the world around you.",
+        "score": { "Ti": 1 }
+      },
+      {
+        "id": 23,
+        "text": "You believe that arriving at a truth is more important than winning an argument.",
+        "score": { "Ti": 1 }
+      },
+      {
+        "id": 39,
+        "text": "You sometimes fail to adapt to new data because it is not consistent with your personal understanding of an idea.",
+        "score": { "Ti": 1 }
+      },
+      {
+        "id": 40,
+        "text": "You work through problems by yourself and detach yourself from other people to arrive at a conclusion.",
+        "score": { "Ti": 1 }
+      },
+      {
+        "id": 46,
+        "text": "You understand a concept by logically recognizing and drawing patterns between different, already known concepts.",
+        "score": { "Ti": 1 }
+      },
+      {
+        "id": 48,
+        "text": "You are an excellent problem solver and have an incredible ability to analyze things in depth.",
+        "score": { "Ti": 1 }
+      },
+      {
+        "id": 53,
+        "text": "Generally, you would prefer a solution be thorough before putting it into action (at the cost of time).",
+        "score": { "Ti": 1 }
+      },
+      {
+        "id": 56,
+        "text": "You modify internal logical frameworks to account for new data, and you sometimes find yourself re-evaluating them when new data is incompatible with it.",
+        "score": { "Ti": 1 }
+      },
+      {
+        "id": 82,
+        "text": "You value truth and logic more than anything else.",
+        "score": { "Ti": 1 }
+      },
+      {
+        "id": 83,
+        "text": "You have been consistently logical throughout your life.",
+        "score": { "Ti": 1 }
+      },
+      {
+        "id": 95,
+        "text": "You explore things in depth for purely for the sake of exploring them in depth.",
+        "score": { "Ti": 1 }
+      }
     ]
   },
   "Fe": {
     "count": 12,
     "question": [
-      [8, "You feel a strong sense of unity when communicating with others in a group."],
-      [24, "You may be viewed as \"fake\" or \"manipulative\" to others."],
-      [31, "You greatly value social harmony and often go out of your way to maintain it."],
-      [32, "You try to help people to the point where you begin to forget taking care of your own needs."],
-      [36, "You easily sympathize with others' struggles."],
-      [37, "You have an uncanny ability of recognizing others' needs."],
-      [47, "You exude charisma and are usually viewed as charming by others."],
-      [62, "You may be viewed as \"meddling\" or \"controlling\" to others."],
-      [70, "You always try to communicate tactfully with people."],
-      [77, "You would rather sugarcoat a problem than upset someone."],
-      [86, "You value inclusion and try your best to involve everyone in a group."],
-      [90, "You become upset when your care for others goes unappreciated."]
+      {
+        "id": 8,
+        "text": "You feel a strong sense of unity when communicating with others in a group.",
+        "score": { "Fe": 1 }
+      },
+      {
+        "id": 24,
+        "text": "You may be viewed as \"fake\" or \"manipulative\" to others.",
+        "score": { "Fe": 1 }
+      },
+      {
+        "id": 31,
+        "text": "You greatly value social harmony and often go out of your way to maintain it.",
+        "score": { "Fe": 1 }
+      },
+      {
+        "id": 32,
+        "text": "You try to help people to the point where you begin to forget taking care of your own needs.",
+        "score": { "Fe": 1 }
+      },
+      {
+        "id": 36,
+        "text": "You easily sympathize with others' struggles.",
+        "score": { "Fe": 1 }
+      },
+      {
+        "id": 37,
+        "text": "You have an uncanny ability of recognizing others' needs.",
+        "score": { "Fe": 1 }
+      },
+      {
+        "id": 47,
+        "text": "You exude charisma and are usually viewed as charming by others.",
+        "score": { "Fe": 1 }
+      },
+      {
+        "id": 62,
+        "text": "You may be viewed as \"meddling\" or \"controlling\" to others.",
+        "score": { "Fe": 1 }
+      },
+      {
+        "id": 70,
+        "text": "You always try to communicate tactfully with people.",
+        "score": { "Fe": 1 }
+      },
+      {
+        "id": 77,
+        "text": "You would rather sugarcoat a problem than upset someone.",
+        "score": { "Fe": 1 }
+      },
+      {
+        "id": 86,
+        "text": "You value inclusion and try your best to involve everyone in a group.",
+        "score": { "Fe": 1 }
+      },
+      {
+        "id": 90,
+        "text": "You become upset when your care for others goes unappreciated.",
+        "score": { "Fe": 1 }
+      }
     ]
   },
   "Fi": {
     "count": 12,
     "question": [
-      [1, "You are fiercely individualistic and pride yourself on your uniqueness."],
-      [19, "You may be viewed as selfish or self-centered."],
-      [29, "You become stubborn and resolute in the face of opposition when it comes to your personal beliefs."],
-      [38, "You express yourself honestly and authentically."],
-      [41, "You tend to express sympathy only after you empathize with someone."],
-      [55, "You have a strict internal moral code that comes from within regardless of any external standards."],
-      [63, "You stay true to yourself."],
-      [69, "You may be viewed as whiny and/or depressive."],
-      [71, "Fake people bother you."],
-      [73, "You have a strong tendency to see things as either good or bad."],
-      [78, "You feel as though you are one of the only truly nice people left in this world."],
-      [94, "You are hesitant to strictly conform to social roles."]
+      {
+        "id": 1,
+        "text": "You are fiercely individualistic and pride yourself on your uniqueness.",
+        "score": { "Fi": 1 }
+      },
+      {
+        "id": 19,
+        "text": "You may be viewed as selfish or self-centered.",
+        "score": { "Fi": 1 }
+      },
+      {
+        "id": 29,
+        "text": "You become stubborn and resolute in the face of opposition when it comes to your personal beliefs.",
+        "score": { "Fi": 1 }
+      },
+      {
+        "id": 38,
+        "text": "You express yourself honestly and authentically.",
+        "score": { "Fi": 1 }
+      },
+      {
+        "id": 41,
+        "text": "You tend to express sympathy only after you empathize with someone.",
+        "score": { "Fi": 1 }
+      },
+      {
+        "id": 55,
+        "text": "You have a strict internal moral code that comes from within regardless of any external standards.",
+        "score": { "Fi": 1 }
+      },
+      {
+        "id": 63,
+        "text": "You stay true to yourself.",
+        "score": { "Fi": 1 }
+      },
+      {
+        "id": 69,
+        "text": "You may be viewed as whiny and/or depressive.",
+        "score": { "Fi": 1 }
+      },
+      {
+        "id": 71,
+        "text": "Fake people bother you.",
+        "score": { "Fi": 1 }
+      },
+      {
+        "id": 73,
+        "text": "You have a strong tendency to see things as either good or bad.",
+        "score": { "Fi": 1 }
+      },
+      {
+        "id": 78,
+        "text": "You feel as though you are one of the only truly nice people left in this world.",
+        "score": { "Fi": 1 }
+      },
+      {
+        "id": 94,
+        "text": "You are hesitant to strictly conform to social roles.",
+        "score": { "Fi": 1 }
+      }
     ]
   }
 }

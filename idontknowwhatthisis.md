@@ -2,8 +2,6 @@ _[someone hurts INFJ, again]_
 <br/>
 <br/>
 
-
-
 _(inside the brain van, Fi is coming forward approaching Fe but then surprised)_
 <br/>
 
@@ -12,7 +10,6 @@ _(inside the brain van, Fi is coming forward approaching Fe but then surprised)_
 **Fe:** "No, this is fine. It hurts but I'm used to it now"
 
 **Fi:** "Yeah and you think I'm stupid? YOU'RE DEFINITELY NOT FINE. You're not yet fully recovered from the previous time and now the hole in you is getting bigger and bigger as if it'll devour your soul anytime soon!"
-
 
 <br/>
 _(Ni is turning back from the driver seat)_
@@ -34,13 +31,11 @@ _(Ni is turning back from the driver seat)_
 
 **Ni:** "Cih, stop it hey, everyone knows you're just acting strong. This time you reached your limit. I'm gonna escort you to the healing room, Fe"
 
-**Fe:** "* _Hiks.. hiks_ * I don't know, you guys right. Help me * _hiks_ *"
-
+**Fe:** "_ *Hiks.. hiks* _ I don't know, you guys right. Help me _ *hiks* _"
 
 <br/>
 _(one seat in the back, Ti puts his headphone off)_
 <br/>
-
 
 **Ti:** "SHIT! The heck? I slipped and just blundered my queen because of your nonsense conversation guys"
 
@@ -62,11 +57,9 @@ _(one seat in the back, Ti puts his headphone off)_
 
 **Se:** "HEH YOU GUYS SO DULL. HAHAHAH!"
 
-
 <br/>
 _a few days later..._
 <br/>
-
 
 _(Fi opens healing room's door)_
 <br/>
@@ -77,12 +70,9 @@ _(Fi opens healing room's door)_
 
 **Fi:** "Okay, glad to hear that"
 
-
-
 <br/>
 _later..._
 <br/>
-
 
 _(Fi is checking Fe again)_
 <br/>
@@ -91,14 +81,11 @@ _(Fi is checking Fe again)_
 
 **Fe:** "Just leave me alone"
 
-**Fi:** "* _gasp_ * ..okay, Fe, hope you well soon"
-
-
+**Fi:** "_ *gasp* _ ..okay, Fe, hope you well soon"
 
 <br/>
 _Fi then reports Fe's weird behaviour to Ni and Ti_
 <br/>
-
 
 **Ni:** "I've got a bad feeling about this"
 
@@ -116,10 +103,9 @@ _Fi then reports Fe's weird behaviour to Ni and Ti_
 _later the day Fe comes out from the healing room. There are Ni, Ti, and Fi together_
 <br/>
 
-
 **Fe:** "Hi everyone, how's it going?"
 
-**Ni:** "Hey welcome back Fe- * _gasp_ * ...so, apparently this is my bad feeling is all about"
+**Ni:** "Hey welcome back Fe- _ *gasp* _ ...so, apparently this is my bad feeling is all about"
 
 **Ni:** "What the heck is happened to you?"
 

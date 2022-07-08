@@ -2,13 +2,12 @@
 
 These data is scraped from https://sakinorva.net/functions
 
-> [view raw](sakifunc_en.json)
-> [view raw v2](sakifunc2_en.json)
+> [view raw](sakifunc_en.json) > [view raw v2](sakifunc2_en.json)
 
 ## Extraverted Intuition (Ne)
 
 | N   | question                                                                                            | id  |
-| --- | ---                                                                                                 | --- |
+| --- | --------------------------------------------------------------------------------------------------- | --- |
 | 1   | You have a tendency to go off-topic in conversation.                                                | 11  |
 | 2   | You can easily think of something random to say.                                                    | 13  |
 | 3   | You see so many possibilities that you have trouble committing to a single one.                     | 16  |
@@ -22,11 +21,10 @@ These data is scraped from https://sakinorva.net/functions
 | 11  | You are drawn to the new, novel, and original.                                                      | 88  |
 | 12  | You see the world as a bundle of possibilities waiting to be explored.                              | 91  |
 
-
 ## Introverted Intuition (Ni)
 
 | N   | question                                                                                             | id  |
-| --- | ---                                                                                                  | --- |
+| --- | ---------------------------------------------------------------------------------------------------- | --- |
 | 1   | You "just know" things without being able to consciously put them into words.                        | 7   |
 | 2   | You imagine things that aren't directly connected to the real world.                                 | 18  |
 | 3   | You are drawn toward the abstract and often obsess over meanings.                                    | 20  |
@@ -41,11 +39,10 @@ These data is scraped from https://sakinorva.net/functions
 | 12  | You are attracted to symbolism, mysticism and the unknown.                                           | 80  |
 | 13  | You prefer living in your dreams to living in the real world.                                        | 92  |
 
-
 ## Extraverted Sensing (Se)
 
 | N   | question                                                                                      | id  |
-| --- | ---                                                                                           | --- |
+| --- | --------------------------------------------------------------------------------------------- | --- |
 | 1   | You have an eye for aesthetics and "enjoy the finer things in life."                          | 4   |
 | 2   | You live in the "here and now."                                                               | 12  |
 | 3   | You are often the first to react to a question.                                               | 28  |
@@ -59,11 +56,10 @@ These data is scraped from https://sakinorva.net/functions
 | 11  | You absorb information from the outside world without additional processing.                  | 85  |
 | 12  | You are aware of your surroundings and aren't likely to miss something right in front of you. | 96  |
 
-
 ## Introverted Sensing (Si)
 
 | N   | question                                                                                       | id  |
-| --- | ---                                                                                            | --- |
+| --- | ---------------------------------------------------------------------------------------------- | --- |
 | 1   | You place a lot of value on details and past experiences.                                      | 2   |
 | 2   | You are skilled at recognizing whether the details in front of you match what you are used to. | 3   |
 | 3   | You easily recognize internal bodily sensations and act to suit your body\'s needs.            | 5   |
@@ -77,11 +73,10 @@ These data is scraped from https://sakinorva.net/functions
 | 11  | You consider yourself a practical and realistic person, free from imagination.                 | 76  |
 | 12  | You are described as "stuck in your ways."                                                     | 93  |
 
-
 ## Extraverted Thinking (Te)
 
 | N   | question                                                                                                          | id  |
-| --- | ---                                                                                                               | --- |
+| --- | ----------------------------------------------------------------------------------------------------------------- | --- |
 | 1   | You find yourself agreeing with those who claim that the ends justify the means.                                  | 6   |
 | 2   | You are blunt and straight-to-the-point in communication.                                                         | 9   |
 | 3   | You trust hard facts and data more than anything else.                                                            | 25  |
@@ -95,11 +90,10 @@ These data is scraped from https://sakinorva.net/functions
 | 11  | You would do whatever it takes to win a debate.                                                                   | 87  |
 | 12  | You generally work through problems with others and involve yourself with other people to arrive at a conclusion. | 89  |
 
-
 ## Introverted Thinking (Ti)
 
-| N   | question                                                                                                                                              | id  |
-| --- | ---                                                                                                                                                       | --- |
+| N   | question                                                                                                                                                  | id  |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | 1   | You come up with internal logical frameworks, theories, and systems to describe the world around you.                                                     | 21  |
 | 2   | You believe that arriving at a truth is more important than winning an argument.                                                                          | 23  |
 | 3   | You sometimes fail to adapt to new data because it is not consistent with your personal understanding of an idea.                                         | 39  |
@@ -112,11 +106,10 @@ These data is scraped from https://sakinorva.net/functions
 | 10  | You have been consistently logical throughout your life.                                                                                                  | 83  |
 | 11  | You explore things in depth for purely for the sake of exploring them in depth.                                                                           | 95  |
 
-
 ## Extraverted Feeling (Fe)
 
 | N   | question                                                                                     | id  |
-| --- | ---                                                                                          | --- |
+| --- | -------------------------------------------------------------------------------------------- | --- |
 | 1   | You feel a strong sense of unity when communicating with others in a group.                  | 8   |
 | 2   | You may be viewed as "fake" or "manipulative" to others.                                     | 24  |
 | 3   | You greatly value social harmony and often go out of your way to maintain it.                | 31  |
@@ -130,11 +123,10 @@ These data is scraped from https://sakinorva.net/functions
 | 11  | You value inclusion and try your best to involve everyone in a group.                        | 86  |
 | 12  | You become upset when your care for others goes unappreciated.                               | 90  |
 
-
 ## Introverted Feeling (Fi)
 
 | N   | question                                                                                           | id  |
-| --- | ---                                                                                                | --- |
+| --- | -------------------------------------------------------------------------------------------------- | --- |
 | 1   | You are fiercely individualistic and pride yourself on your uniqueness.                            | 1   |
 | 2   | You may be viewed as selfish or self-centered.                                                     | 19  |
 | 3   | You become stubborn and resolute in the face of opposition when it comes to your personal beliefs. | 29  |
@@ -144,6 +136,6 @@ These data is scraped from https://sakinorva.net/functions
 | 7   | You stay true to yourself.                                                                         | 63  |
 | 8   | You may be viewed as whiny and/or depressive.                                                      | 69  |
 | 9   | Fake people bother you.                                                                            | 71  |
-| 10  | You feel as though you are one of the only truly nice people left in this world.             | 78  |
+| 10  | You feel as though you are one of the only truly nice people left in this world.                   | 78  |
 | 11  | You have a strong tendency to see things as either good or bad.                                    | 73  |
 | 12  | You are hesitant to strictly conform to social roles.                                              | 94  |

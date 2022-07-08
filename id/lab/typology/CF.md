@@ -8,13 +8,12 @@ DOM-based scraper:
 for(qq=[],q=document.querySelectorAll("input#answer"),i=0;i<480;i+=5)e=q[i].parentNode.parentNode.previousElementSibling.innerText.split(" "),e.shift(),qq.push([+q[i].name.replace("q",""),e.join(" ").replace('"','\\"')]);for(i of(body=document.querySelector("body"),body.innerHTML="[<br/>",qq))body.innerHTML+=`  { "id": ${i[0]}, "text": "${i[1]}", "function": "Xx" },<br/>`;body.innerHTML+="]"}
 ```
 
-> [data mentahan](sakifunc_id.json)
-> [data mentahan v2](sakifunc2_id.json)
+> [data mentahan](sakifunc_id.json) > [data mentahan v2](sakifunc2_id.json)
 
 ## Extraverted Intuition (Ne)
 
 | N   | question                                                                                                         | id  | skor |
-| --- | ---                                                                                                              | --- | ---  |
+| --- | ---------------------------------------------------------------------------------------------------------------- | --- | ---- |
 | 1   | Kamu punya kecenderungan untuk berbicara keluar dari topik dalam sebuah percakapan.                              | 11  |      |
 | 2   | Mudah bagimu untuk memikirkan sesuatu yang abstrak dan acak untuk dikatakan.                                     | 13  |      |
 | 3   | Saking banyaknya kemungkinan yang kamu temukan, susah bagimu untuk berkomitmen pada satu keputusan.              | 16  |      |
@@ -31,7 +30,7 @@ for(qq=[],q=document.querySelectorAll("input#answer"),i=0;i<480;i+=5)e=q[i].pare
 ## Introverted Intuition (Ni)
 
 | N   | question                                                                                                     | id  | skor |
-| --- | ---                                                                                                          | --- | ---  |
+| --- | ------------------------------------------------------------------------------------------------------------ | --- | ---- |
 | 1   | Kamu seringkali kesusahan untuk mengungkapkan suatu hal dalam kata-kata walaupun kamu memahami hal tersebut. | 7   |      |
 | 2   | Kamu mengimajinasikan hal-hal yang tidak berhubungan langsung dengan dunia nyata.                            | 18  |      |
 | 3   | Kamu tertarik dengan hal-hal abstrak dan sering terobsesi dengan makna tersembunyi.                          | 20  |      |
@@ -49,7 +48,7 @@ for(qq=[],q=document.querySelectorAll("input#answer"),i=0;i<480;i+=5)e=q[i].pare
 ## Extraverted Sensing (Se)
 
 | N   | question                                                                                                | id  | skor |
-| --- | ---                                                                                                     | --- | ---  |
+| --- | ------------------------------------------------------------------------------------------------------- | --- | ---- |
 | 1   | Kamu menyukai keindahan dan "menikmati hal-hal yang baik dalam hidup."                                  | 4   |      |
 | 2   | Kamu hidup di 'tempat ini dan saat ini'.                                                                | 12  |      |
 | 3   | Biasanya, kamu adalah yang pertama bereaksi terhadap suatu pertanyaan.                                  | 28  |      |
@@ -66,7 +65,7 @@ for(qq=[],q=document.querySelectorAll("input#answer"),i=0;i<480;i+=5)e=q[i].pare
 ## Introverted Sensing (Si)
 
 | N   | question                                                                                                                 | id  | skor |
-| --- | ---                                                                                                                      | --- | ---  |
+| --- | ------------------------------------------------------------------------------------------------------------------------ | --- | ---- |
 | 1   | Kamu sangat memperhitungkan detil dan pengalaman yang lampau.                                                            | 2   |      |
 | 2   | Kamu berbakat dalam mengidentifikasi apakah sebuah detail cocok dengan kebiasaan yang ada.                               | 3   |      |
 | 3   | Kamu mudah menyadari rangsangan/sensasi internal dari tubuh dan bisa mengambil tindakan sesuai dengan kebutuhan tubuhmu. | 5   |      |
@@ -83,7 +82,7 @@ for(qq=[],q=document.querySelectorAll("input#answer"),i=0;i<480;i+=5)e=q[i].pare
 ## Extraverted Thinking (Te)
 
 | N   | question                                                                                                  | id  | skor |
-| --- | ---                                                                                                       | --- | ---  |
+| --- | --------------------------------------------------------------------------------------------------------- | --- | ---- |
 | 1   | Kamu setuju bahwa hasil akhir adalah yang terpenting.                                                     | 6   |      |
 | 2   | Kamu tidak bertele-tele dalam berkomunikasi.                                                              | 9   |      |
 | 3   | Kamu mempercayai fakta dan data lebih dari apapun.                                                        | 25  |      |
@@ -99,24 +98,24 @@ for(qq=[],q=document.querySelectorAll("input#answer"),i=0;i<480;i+=5)e=q[i].pare
 
 ## Introverted Thinking (Ti)
 
-| N   | question                                                                                                                                | id  | skor |
-| --- | ---                                                                                                                                     | --- |      |
-| 1   | Untuk mendeskripsikan dunia di sekelilingmu, kamu membuat kerangka kerja, teori dan sistem yang logis secara internal.                  | 21  |      |
-| 2   | Menurutmu, mendapat kebenaran atau fakta lebih penting dari memenangkan sebuah perdebatan.                                              | 23  |      |
-| 3   | Kamu sulitl beradaptasi dengan data-data baru karena tidak sesuai dengan pemahaman pribadimu atas sebuah ide.                           | 39  |      |
-| 4   | Kamu menyelesaikan masalahmu sendiri dan mengasingkan diri saat mencari kesimpulan.                                                     | 40  |      |
-| 5   | Caramu memahami sebuah konsep adalah mengidentifikasinya secara logis dan menghubungkan pola antara konsep-konsep yang ada.             | 46  |      |
-| 6   | Kamu pemecah masalah yang baik dan memiliki kemampuan untuk menganalisis secara mendalam.                                               | 48  |      |
-| 7   | Menurutmu, suatu solusi lebih baik dibahas secara menyeluruh sebelum dieksekusi, meskipun waktu yang jadi taruhannya.                   | 53  |      |
-| 8   | Kamu memodifikasi sistem logika internalmu untuk memasukkan data baru, dan akan mengevaluasi ulang sistem itu jika datanya tidak cocok. | 56  |      |
-| 9   | Kamu menghargai kebenaran dan logika lebih dari apapun.                                                                                 | 82  |      |
-| 10  | Kamu telah menjadi logis secara konsisten seumur hidupmu.                                                                               | 83  |      |
-| 11  | Kamu mengeksplor hal-hal secara mendalam hanya karena kamu ingin tahu lebih dalam.                                                      | 95  |      |
+| N | question | id | skor |
+| --- | --- | --- | |
+| 1 | Untuk mendeskripsikan dunia di sekelilingmu, kamu membuat kerangka kerja, teori dan sistem yang logis secara internal. | 21 | |
+| 2 | Menurutmu, mendapat kebenaran atau fakta lebih penting dari memenangkan sebuah perdebatan. | 23 | |
+| 3 | Kamu sulitl beradaptasi dengan data-data baru karena tidak sesuai dengan pemahaman pribadimu atas sebuah ide. | 39 | |
+| 4 | Kamu menyelesaikan masalahmu sendiri dan mengasingkan diri saat mencari kesimpulan. | 40 | |
+| 5 | Caramu memahami sebuah konsep adalah mengidentifikasinya secara logis dan menghubungkan pola antara konsep-konsep yang ada. | 46 | |
+| 6 | Kamu pemecah masalah yang baik dan memiliki kemampuan untuk menganalisis secara mendalam. | 48 | |
+| 7 | Menurutmu, suatu solusi lebih baik dibahas secara menyeluruh sebelum dieksekusi, meskipun waktu yang jadi taruhannya. | 53 | |
+| 8 | Kamu memodifikasi sistem logika internalmu untuk memasukkan data baru, dan akan mengevaluasi ulang sistem itu jika datanya tidak cocok. | 56 | |
+| 9 | Kamu menghargai kebenaran dan logika lebih dari apapun. | 82 | |
+| 10 | Kamu telah menjadi logis secara konsisten seumur hidupmu. | 83 | |
+| 11 | Kamu mengeksplor hal-hal secara mendalam hanya karena kamu ingin tahu lebih dalam. | 95 | |
 
 ## Extraverted Feeling (Fe)
 
 | N   | question                                                                                                    | id  | skor |
-| --- | ---                                                                                                         | --- | ---  |
+| --- | ----------------------------------------------------------------------------------------------------------- | --- | ---- |
 | 1   | Kamu merasakan solidaritas tingkat tinggi ketika berkomunikasi dalam kelompok.                              | 8   |      |
 | 2   | Kamu mungkin terlihat 'palsu' atau 'manipulatif' bagi orang lain.                                           | 24  |      |
 | 3   | Kamu sangat menghargai harmoni dalam kehidupan sosial dan sering berusaha keras untuk mempertahankannya.    | 31  |      |
@@ -133,7 +132,7 @@ for(qq=[],q=document.querySelectorAll("input#answer"),i=0;i<480;i+=5)e=q[i].pare
 ## Introverted Feeling (Fi)
 
 | N   | question                                                                                         | id  | skor |
-| --- | ---                                                                                              | --- | ---  |
+| --- | ------------------------------------------------------------------------------------------------ | --- | ---- |
 | 1   | Kamu sangat individualistis dan melihat keunikanmu sebagai bagian dari harga diri.               | 1   |      |
 | 2   | Kamu mungkin terlihat egois.                                                                     | 19  |      |
 | 3   | Kamu menjadi keras kepala saat menghadapi pertentangan atas apa yang kamu yakini secara pribadi. | 29  |      |
@@ -147,5 +146,4 @@ for(qq=[],q=document.querySelectorAll("input#answer"),i=0;i<480;i+=5)e=q[i].pare
 | 11  | Kamu merasa seakan kamu adalah satu dari segelintir orang baik yang tersisa di dunia ini.        | 78  |      |
 | 12  | Kamu ragu untuk mengasosiasikan dirimu pada suatu peran sosial secara pasti.                     | 94  |      |
 
-
-<em>*dibantu koreksi oleh Munchau dan kawan-kawan di grup Telegram MBTI INDONESIA</em>
+<em>\*dibantu koreksi oleh Munchau dan kawan-kawan di grup Telegram MBTI INDONESIA</em>

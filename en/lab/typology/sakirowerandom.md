@@ -1,11 +1,12 @@
 # Enneagram rowe test
+
 https://sakinorva.net/test/rowe
 
 ```
 total question = 306
 ```
 
-* Pseudo code:
+- Pseudo code:
 
 ```
 Get the question nodes
@@ -15,25 +16,31 @@ Iterate by 5 through it:
 Click the submit button
 ```
 
-* in JavaScript:
+- in JavaScript:
 
 ```javascript
 // get all input tags
-const inputs = document.querySelectorAll('input#answer');
+const inputs = document.querySelectorAll("input#answer");
 
 // randomly checked the radio button of each question
-for (let i=0; i<306*5; i+=5) {
-  inputs[i+(Math.round(Math.random()*10)%5)].checked = true;
+for (let i = 0; i < 306 * 5; i += 5) {
+  inputs[i + (Math.round(Math.random() * 10) % 5)].checked = true;
 }
 
 // click the submit button
-document.querySelector('.submitit').click();
+document.querySelector(".submitit").click();
 ```
 
-* Compiled version:
+- Compiled version:
 
 ```javascript
-(()=>{e=document.querySelectorAll("input#answer");for(t=0;t<1530;t+=5)e[t+Math.round(10*Math.random())%5].checked=!0;document.querySelector(".submitit").click()})();void(0)
+(() => {
+  e = document.querySelectorAll("input#answer");
+  for (t = 0; t < 1530; t += 5)
+    e[t + (Math.round(10 * Math.random()) % 5)].checked = !0;
+  document.querySelector(".submitit").click();
+})();
+void 0;
 ```
 
 execute above code in address bar with prefix `javascript:`.

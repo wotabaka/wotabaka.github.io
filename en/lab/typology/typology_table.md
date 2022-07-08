@@ -1,7 +1,7 @@
 # Human Personalities
 
 | Myers | Jungian cf  | Psyche |
-| ---   | ---         | ---    |
+| ----- | ----------- | ------ |
 | INFJ  | Ni Fe Ti Se |        |
 | INFP  | Fi Ne Si Te |        |
 | INTJ  | Ni Te Fi Se |        |
