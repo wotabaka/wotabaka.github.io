@@ -2,7 +2,8 @@
 
 These data is scraped from https://sakinorva.net/functions
 
-> [view raw](sakifunc_en.json) > [view raw v2](sakifunc2_en.json)
+* [view raw](sakifunc_en.json)
+* [view raw v2](sakifunc2_en.json)
 
 ## Extraverted Intuition (Ne)
 

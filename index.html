@@ -17672,18 +17672,16 @@
               return b.each(function () {
                 var b = a(this),
                   d = "gallery-group-" + c++;
-                b.find("a.md-image-selfref img")
-                  .parents("a")
-                  .colorbox({
-                    rel: d,
-                    opacity: 0.75,
-                    slideshow: !0,
-                    maxWidth: "95%",
-                    maxHeight: "95%",
-                    scalePhotos: !0,
-                    photo: !0,
-                    slideshowAuto: !1,
-                  });
+                b.find("a.md-image-selfref img").parents("a").colorbox({
+                  rel: d,
+                  opacity: 0.75,
+                  slideshow: !0,
+                  maxWidth: "95%",
+                  maxHeight: "95%",
+                  scalePhotos: !0,
+                  photo: !0,
+                  slideshowAuto: !1,
+                });
               });
             },
           };

@@ -1,6 +1,6 @@
 # Rangkuman fungsi kognitif tes sakinorva
 
-> Disklaimer: data diambil tanpa izin dari https://sakinorva.net/functions
+*Disklaimer: data diambil tanpa izin dari https://sakinorva.net/functions*
 
 DOM-based scraper:
 
@@ -8,7 +8,8 @@ DOM-based scraper:
 for(qq=[],q=document.querySelectorAll("input#answer"),i=0;i<480;i+=5)e=q[i].parentNode.parentNode.previousElementSibling.innerText.split(" "),e.shift(),qq.push([+q[i].name.replace("q",""),e.join(" ").replace('"','\\"')]);for(i of(body=document.querySelector("body"),body.innerHTML="[<br/>",qq))body.innerHTML+=`  { "id": ${i[0]}, "text": "${i[1]}", "function": "Xx" },<br/>`;body.innerHTML+="]"}
 ```
 
-> [data mentahan](sakifunc_id.json) > [data mentahan v2](sakifunc2_id.json)
+- [data mentahan](sakifunc_id.json)
+- [data mentahan v2](sakifunc2_id.json)
 
 ## Extraverted Intuition (Ne)
 
@@ -98,19 +99,19 @@ for(qq=[],q=document.querySelectorAll("input#answer"),i=0;i<480;i+=5)e=q[i].pare
 
 ## Introverted Thinking (Ti)
 
-| N | question | id | skor |
-| --- | --- | --- | |
-| 1 | Untuk mendeskripsikan dunia di sekelilingmu, kamu membuat kerangka kerja, teori dan sistem yang logis secara internal. | 21 | |
-| 2 | Menurutmu, mendapat kebenaran atau fakta lebih penting dari memenangkan sebuah perdebatan. | 23 | |
-| 3 | Kamu sulitl beradaptasi dengan data-data baru karena tidak sesuai dengan pemahaman pribadimu atas sebuah ide. | 39 | |
-| 4 | Kamu menyelesaikan masalahmu sendiri dan mengasingkan diri saat mencari kesimpulan. | 40 | |
-| 5 | Caramu memahami sebuah konsep adalah mengidentifikasinya secara logis dan menghubungkan pola antara konsep-konsep yang ada. | 46 | |
-| 6 | Kamu pemecah masalah yang baik dan memiliki kemampuan untuk menganalisis secara mendalam. | 48 | |
-| 7 | Menurutmu, suatu solusi lebih baik dibahas secara menyeluruh sebelum dieksekusi, meskipun waktu yang jadi taruhannya. | 53 | |
-| 8 | Kamu memodifikasi sistem logika internalmu untuk memasukkan data baru, dan akan mengevaluasi ulang sistem itu jika datanya tidak cocok. | 56 | |
-| 9 | Kamu menghargai kebenaran dan logika lebih dari apapun. | 82 | |
-| 10 | Kamu telah menjadi logis secara konsisten seumur hidupmu. | 83 | |
-| 11 | Kamu mengeksplor hal-hal secara mendalam hanya karena kamu ingin tahu lebih dalam. | 95 | |
+| N   | question                                                                                                                                | id  | skor |
+| --- | ---                                                                                                                                     | --- |      |
+| 1   | Untuk mendeskripsikan dunia di sekelilingmu, kamu membuat kerangka kerja, teori dan sistem yang logis secara internal.                  | 21  |      |
+| 2   | Menurutmu, mendapat kebenaran atau fakta lebih penting dari memenangkan sebuah perdebatan.                                              | 23  |      |
+| 3   | Kamu sulitl beradaptasi dengan data-data baru karena tidak sesuai dengan pemahaman pribadimu atas sebuah ide.                           | 39  |      |
+| 4   | Kamu menyelesaikan masalahmu sendiri dan mengasingkan diri saat mencari kesimpulan.                                                     | 40  |      |
+| 5   | Caramu memahami sebuah konsep adalah mengidentifikasinya secara logis dan menghubungkan pola antara konsep-konsep yang ada.             | 46  |      |
+| 6   | Kamu pemecah masalah yang baik dan memiliki kemampuan untuk menganalisis secara mendalam.                                               | 48  |      |
+| 7   | Menurutmu, suatu solusi lebih baik dibahas secara menyeluruh sebelum dieksekusi, meskipun waktu yang jadi taruhannya.                   | 53  |      |
+| 8   | Kamu memodifikasi sistem logika internalmu untuk memasukkan data baru, dan akan mengevaluasi ulang sistem itu jika datanya tidak cocok. | 56  |      |
+| 9   | Kamu menghargai kebenaran dan logika lebih dari apapun.                                                                                 | 82  |      |
+| 10  | Kamu telah menjadi logis secara konsisten seumur hidupmu.                                                                               | 83  |      |
+| 11  | Kamu mengeksplor hal-hal secara mendalam hanya karena kamu ingin tahu lebih dalam.                                                      | 95  |      |
 
 ## Extraverted Feeling (Fe)
 
