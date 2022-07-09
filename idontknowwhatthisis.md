@@ -1,3 +1,6 @@
+# WARNING! THIS IS SO CRINGE BECAUSE I HAVE NO WRITING SKILL
+### do not read or you'll be disgusted
+
 _[someone hurts INFJ, again]_
 <br/>
 <br/>
