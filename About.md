@@ -19,6 +19,6 @@ My current typology profile is:
 | Socionics        | EII                                                            |
 | Enneagram        | 9w1                                                            |
 | Tritype          | 954                                                            |
-| Instinct variant | sp/sx                                                          |
+| Instinct variant | sp/so                                                          |
 | Psyche           | LEFV                                                           |
 | Temperament      | Melancholic-Phlegmatic                                         |

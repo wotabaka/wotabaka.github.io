@@ -20,7 +20,7 @@ some questions have its own scoring rule
 
 ## score algorithm
 
-formula (I maybe miss something here):
+formula (I definitely miss something here):
 
 ```
 each point +0.5 for Dom
