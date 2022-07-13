@@ -1,5 +1,6 @@
 # Hi!
 
+![dimple](img/dimple.png)
 I am Mob. Yoroshiku!
 19 y.o
 I like to explore a lot of things!
