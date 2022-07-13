@@ -1,14 +1,15 @@
 # Hi!
 
-![dimple](img/dimple.png)
+<img src='img/dimple.png' width='200px' style='border:0px'/>
+
 I am Mob. Yoroshiku!
 19 y.o
 I like to explore a lot of things!
 Currently, I explore about personality types, like MBTI typology.
-I'm an INFJ-T, _'what a complex personality!'_' it's said.
+I'm an INFJ-T, _'what a complex personality!'_ it's said.
 I've also been learning about Jungian cognitive functions and other typology methods as well.
 Personally I feel, it's harder to understand self than others.
-I hope whoever is reading this will have a great day! :)
+Anyways... I hope whoever is reading this will have a great day! :)
 Peace out!
 
 My current typology profile is:
